@@ -1,0 +1,19 @@
+[2020-06-18 06:07:25,248] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: example_variables.get_dag_config 2019-02-15T00:00:00+00:00 [queued]>
+[2020-06-18 06:07:25,261] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: example_variables.get_dag_config 2019-02-15T00:00:00+00:00 [queued]>
+[2020-06-18 06:07:25,261] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-18 06:07:25,261] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-18 06:07:25,261] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-18 06:07:25,271] {taskinstance.py:900} INFO - Executing <Task(BashOperator): get_dag_config> on 2019-02-15T00:00:00+00:00
+[2020-06-18 06:07:25,273] {standard_task_runner.py:53} INFO - Started process 5805 to run task
+[2020-06-18 06:07:25,331] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: example_variables.get_dag_config 2019-02-15T00:00:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-18 06:07:25,343] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /tmp
+[2020-06-18 06:07:25,344] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmpoJbZCo/get_dag_config4_6IUL
+[2020-06-18 06:07:25,345] {bash_operator.py:115} INFO - Running command: echo "{u'var1': u'value1', u'var3': {u'k': u'value3'}, u'var2': [1, 2, 3]}"
+[2020-06-18 06:07:25,349] {bash_operator.py:122} INFO - Output:
+[2020-06-18 06:07:25,350] {bash_operator.py:126} INFO - {u'var1': u'value1', u'var3': {u'k': u'value3'}, u'var2': [1, 2, 3]}
+[2020-06-18 06:07:25,350] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-06-18 06:07:25,356] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=example_variables, task_id=get_dag_config, execution_date=20190215T000000, start_date=20200618T060725, end_date=20200618T060725
+[2020-06-18 06:07:35,241] {logging_mixin.py:112} INFO - [2020-06-18 06:07:35,240] {local_task_job.py:103} INFO - Task exited with return code 0

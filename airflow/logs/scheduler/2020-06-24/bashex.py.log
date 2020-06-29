@@ -1,0 +1,100 @@
+[2020-06-24 05:49:03,408] {scheduler_job.py:154} INFO - Started process (PID=5111) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:49:03,412] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:49:03,412] {logging_mixin.py:112} INFO - [2020-06-24 05:49:03,412] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:49:03,417] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:49:03,438] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.031 seconds
+[2020-06-24 05:50:51,723] {scheduler_job.py:154} INFO - Started process (PID=5196) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:50:51,727] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:50:51,727] {logging_mixin.py:112} INFO - [2020-06-24 05:50:51,727] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:50:51,732] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:50:51,752] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.030 seconds
+[2020-06-24 05:52:28,173] {scheduler_job.py:154} INFO - Started process (PID=5259) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:52:28,177] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:52:28,177] {logging_mixin.py:112} INFO - [2020-06-24 05:52:28,177] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:52:28,185] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:52:28,202] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.029 seconds
+[2020-06-24 05:54:04,643] {scheduler_job.py:154} INFO - Started process (PID=5320) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:54:04,647] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:54:04,648] {logging_mixin.py:112} INFO - [2020-06-24 05:54:04,647] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:54:04,652] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:54:04,671] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.027 seconds
+[2020-06-24 05:55:41,136] {scheduler_job.py:154} INFO - Started process (PID=5408) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:55:41,142] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:55:41,142] {logging_mixin.py:112} INFO - [2020-06-24 05:55:41,142] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:55:41,147] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:55:41,166] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.031 seconds
+[2020-06-24 05:57:17,610] {scheduler_job.py:154} INFO - Started process (PID=5539) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:57:17,614] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:57:17,614] {logging_mixin.py:112} INFO - [2020-06-24 05:57:17,614] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:57:17,619] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:57:17,639] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.029 seconds
+[2020-06-24 05:58:54,083] {scheduler_job.py:154} INFO - Started process (PID=5654) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:58:54,088] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 05:58:54,088] {logging_mixin.py:112} INFO - [2020-06-24 05:58:54,088] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:58:54,093] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 05:58:54,111] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:00:51,925] {scheduler_job.py:154} INFO - Started process (PID=5752) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:00:51,929] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:00:51,929] {logging_mixin.py:112} INFO - [2020-06-24 06:00:51,929] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:00:51,934] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:00:51,952] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.027 seconds
+[2020-06-24 06:02:38,682] {scheduler_job.py:154} INFO - Started process (PID=5845) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:02:38,686] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:02:38,686] {logging_mixin.py:112} INFO - [2020-06-24 06:02:38,686] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:02:38,692] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:02:38,711] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.029 seconds
+[2020-06-24 06:04:25,372] {scheduler_job.py:154} INFO - Started process (PID=5927) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:04:25,376] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:04:25,377] {logging_mixin.py:112} INFO - [2020-06-24 06:04:25,377] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:04:25,382] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:04:25,400] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:06:12,039] {scheduler_job.py:154} INFO - Started process (PID=6009) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:06:12,043] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:06:12,043] {logging_mixin.py:112} INFO - [2020-06-24 06:06:12,043] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:06:12,048] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:06:12,067] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:07:58,781] {scheduler_job.py:154} INFO - Started process (PID=6088) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:07:58,785] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:07:58,785] {logging_mixin.py:112} INFO - [2020-06-24 06:07:58,785] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:07:58,790] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:07:58,809] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.027 seconds
+[2020-06-24 06:09:45,463] {scheduler_job.py:154} INFO - Started process (PID=6170) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:09:45,467] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:09:45,467] {logging_mixin.py:112} INFO - [2020-06-24 06:09:45,467] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:09:45,473] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:09:45,491] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:11:32,147] {scheduler_job.py:154} INFO - Started process (PID=6256) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:11:32,152] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:11:32,152] {logging_mixin.py:112} INFO - [2020-06-24 06:11:32,152] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:11:32,157] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:11:32,175] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.027 seconds
+[2020-06-24 06:13:18,836] {scheduler_job.py:154} INFO - Started process (PID=6337) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:13:18,840] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:13:18,841] {logging_mixin.py:112} INFO - [2020-06-24 06:13:18,841] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:13:18,845] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:13:18,864] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.027 seconds
+[2020-06-24 06:15:06,147] {scheduler_job.py:154} INFO - Started process (PID=6420) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:15:06,151] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:15:06,152] {logging_mixin.py:112} INFO - [2020-06-24 06:15:06,152] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:15:06,157] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:15:06,175] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:16:52,863] {scheduler_job.py:154} INFO - Started process (PID=6500) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:16:52,870] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:16:52,871] {logging_mixin.py:112} INFO - [2020-06-24 06:16:52,871] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:16:52,876] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:16:52,895] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.032 seconds
+[2020-06-24 06:18:39,566] {scheduler_job.py:154} INFO - Started process (PID=6582) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:18:39,570] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:18:39,570] {logging_mixin.py:112} INFO - [2020-06-24 06:18:39,570] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:18:39,575] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:18:39,594] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:20:26,276] {scheduler_job.py:154} INFO - Started process (PID=6668) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:20:26,280] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:20:26,281] {logging_mixin.py:112} INFO - [2020-06-24 06:20:26,280] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:20:26,286] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:20:26,304] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.028 seconds
+[2020-06-24 06:22:12,961] {scheduler_job.py:154} INFO - Started process (PID=6747) to work on /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:22:12,965] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/bashex.py for tasks to queue
+[2020-06-24 06:22:12,965] {logging_mixin.py:112} INFO - [2020-06-24 06:22:12,965] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:22:12,970] {scheduler_job.py:1574} INFO - DAG(s) ['bashoperator'] retrieved from /home/ec2-user/airflow/dags/bashex.py
+[2020-06-24 06:22:12,990] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/bashex.py took 0.029 seconds

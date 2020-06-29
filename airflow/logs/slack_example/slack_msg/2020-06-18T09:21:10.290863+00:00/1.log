@@ -1,0 +1,23 @@
+[2020-06-18 09:22:05,995] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slack_example.slack_msg 2020-06-18T09:21:10.290863+00:00 [None]>
+[2020-06-18 09:22:06,003] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slack_example.slack_msg 2020-06-18T09:21:10.290863+00:00 [None]>
+[2020-06-18 09:22:06,003] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-18 09:22:06,004] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-18 09:22:06,004] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-18 09:22:06,016] {taskinstance.py:900} INFO - Executing <Task(SlackWebhookOperator): slack_msg> on 2020-06-18T09:21:10.290863+00:00
+[2020-06-18 09:22:06,018] {standard_task_runner.py:53} INFO - Started process 10040 to run task
+[2020-06-18 09:22:06,076] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: slack_example.slack_msg 2020-06-18T09:21:10.290863+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-18 09:22:06,095] {taskinstance.py:1145} ERROR - Cannot get token: No valid Slack webhook token nor conn_id supplied
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/operators/slack_webhook_operator.py", line 111, in execute
+    self.proxy
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/hooks/slack_webhook_hook.py", line 79, in __init__
+    self.webhook_token = self._get_token(webhook_token, http_conn_id)
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/hooks/slack_webhook_hook.py", line 108, in _get_token
+    raise AirflowException('Cannot get token: No valid Slack '
+AirflowException: Cannot get token: No valid Slack webhook token nor conn_id supplied
+[2020-06-18 09:22:06,098] {taskinstance.py:1202} INFO - Marking task as FAILED.dag_id=slack_example, task_id=slack_msg, execution_date=20200618T092110, start_date=20200618T092205, end_date=20200618T092206
+[2020-06-18 09:22:15,990] {logging_mixin.py:112} INFO - [2020-06-18 09:22:15,990] {local_task_job.py:103} INFO - Task exited with return code 1

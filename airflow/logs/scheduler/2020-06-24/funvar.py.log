@@ -1,0 +1,242 @@
+[2020-06-24 05:49:05,426] {scheduler_job.py:154} INFO - Started process (PID=5112) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:49:05,430] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:49:05,430] {logging_mixin.py:112} INFO - [2020-06-24 05:49:05,430] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:49:05,434] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:49:05,461] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:49:05,520] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-25 00:00:00+00:00: scheduled__2019-05-25T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:49:05,522] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-24 00:00:00+00:00: scheduled__2019-05-24T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:49:05,528] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-25 00:00:00+00:00: scheduled__2019-05-25T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:49:05,540] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:49:05,544] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-24 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:49:05,548] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-25 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:49:05,558] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.132 seconds
+[2020-06-24 05:50:53,741] {scheduler_job.py:154} INFO - Started process (PID=5197) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:50:53,745] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:50:53,745] {logging_mixin.py:112} INFO - [2020-06-24 05:50:53,745] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:50:53,749] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:50:53,777] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:50:53,803] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-26 00:00:00+00:00: scheduled__2019-05-26T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:53,806] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-24 00:00:00+00:00: scheduled__2019-05-24T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:53,812] {logging_mixin.py:112} INFO - [2020-06-24 05:50:53,812] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-24 00:00:00+00:00: scheduled__2019-05-24T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:50:53,818] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-25 00:00:00+00:00: scheduled__2019-05-25T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:53,825] {logging_mixin.py:112} INFO - [2020-06-24 05:50:53,824] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-25 00:00:00+00:00: scheduled__2019-05-25T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:50:53,829] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-26 00:00:00+00:00: scheduled__2019-05-26T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:53,839] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:50:53,842] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-26 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:50:53,851] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.110 seconds
+[2020-06-24 05:52:30,189] {scheduler_job.py:154} INFO - Started process (PID=5260) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:52:30,192] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:52:30,193] {logging_mixin.py:112} INFO - [2020-06-24 05:52:30,193] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:52:30,200] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:52:30,224] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:52:30,249] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-27 00:00:00+00:00: scheduled__2019-05-27T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:52:30,251] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-26 00:00:00+00:00: scheduled__2019-05-26T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:52:30,257] {logging_mixin.py:112} INFO - [2020-06-24 05:52:30,257] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-26 00:00:00+00:00: scheduled__2019-05-26T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:52:30,263] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-27 00:00:00+00:00: scheduled__2019-05-27T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:52:30,273] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:52:30,276] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-27 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:52:30,286] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.097 seconds
+[2020-06-24 05:54:06,661] {scheduler_job.py:154} INFO - Started process (PID=5321) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:54:06,668] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:54:06,668] {logging_mixin.py:112} INFO - [2020-06-24 05:54:06,668] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:54:06,673] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:54:06,697] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:54:06,725] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-28 00:00:00+00:00: scheduled__2019-05-28T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:54:06,727] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-27 00:00:00+00:00: scheduled__2019-05-27T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:54:06,733] {logging_mixin.py:112} INFO - [2020-06-24 05:54:06,733] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-27 00:00:00+00:00: scheduled__2019-05-27T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:54:06,738] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-28 00:00:00+00:00: scheduled__2019-05-28T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:54:06,747] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:54:06,750] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-28 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:54:06,759] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.098 seconds
+[2020-06-24 05:55:43,154] {scheduler_job.py:154} INFO - Started process (PID=5409) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:55:43,158] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:55:43,158] {logging_mixin.py:112} INFO - [2020-06-24 05:55:43,158] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:55:43,162] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:55:43,186] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:55:43,211] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-29 00:00:00+00:00: scheduled__2019-05-29T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:55:43,214] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-28 00:00:00+00:00: scheduled__2019-05-28T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:55:43,220] {logging_mixin.py:112} INFO - [2020-06-24 05:55:43,220] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-28 00:00:00+00:00: scheduled__2019-05-28T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:55:43,224] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-29 00:00:00+00:00: scheduled__2019-05-29T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:55:43,234] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:55:43,237] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-29 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:55:43,246] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.093 seconds
+[2020-06-24 05:57:19,614] {scheduler_job.py:154} INFO - Started process (PID=5540) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:57:19,617] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:57:19,618] {logging_mixin.py:112} INFO - [2020-06-24 05:57:19,618] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:57:19,622] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:57:19,645] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:57:19,674] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-30 00:00:00+00:00: scheduled__2019-05-30T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:57:19,677] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-29 00:00:00+00:00: scheduled__2019-05-29T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:57:19,683] {logging_mixin.py:112} INFO - [2020-06-24 05:57:19,683] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-29 00:00:00+00:00: scheduled__2019-05-29T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:57:19,687] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-30 00:00:00+00:00: scheduled__2019-05-30T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:57:19,697] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:57:19,701] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-30 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:57:19,710] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.096 seconds
+[2020-06-24 05:58:56,098] {scheduler_job.py:154} INFO - Started process (PID=5655) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:58:56,102] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 05:58:56,103] {logging_mixin.py:112} INFO - [2020-06-24 05:58:56,103] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:58:56,107] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 05:58:56,131] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 05:58:56,158] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-05-31 00:00:00+00:00: scheduled__2019-05-31T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:58:56,160] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-30 00:00:00+00:00: scheduled__2019-05-30T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:58:56,166] {logging_mixin.py:112} INFO - [2020-06-24 05:58:56,166] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-30 00:00:00+00:00: scheduled__2019-05-30T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:58:56,173] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-31 00:00:00+00:00: scheduled__2019-05-31T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:58:56,182] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 05:58:56,185] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-05-31 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:58:56,194] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.097 seconds
+[2020-06-24 06:00:53,943] {scheduler_job.py:154} INFO - Started process (PID=5753) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:00:53,947] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:00:53,947] {logging_mixin.py:112} INFO - [2020-06-24 06:00:53,947] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:00:53,952] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:00:53,976] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:00:54,004] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-01 00:00:00+00:00: scheduled__2019-06-01T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:00:54,007] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-05-31 00:00:00+00:00: scheduled__2019-05-31T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:00:54,012] {logging_mixin.py:112} INFO - [2020-06-24 06:00:54,012] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-05-31 00:00:00+00:00: scheduled__2019-05-31T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:00:54,017] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-01 00:00:00+00:00: scheduled__2019-06-01T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:00:54,026] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:00:54,030] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-01 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:00:54,039] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.096 seconds
+[2020-06-24 06:02:40,700] {scheduler_job.py:154} INFO - Started process (PID=5846) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:02:40,704] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:02:40,704] {logging_mixin.py:112} INFO - [2020-06-24 06:02:40,704] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:02:40,709] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:02:40,732] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:02:40,759] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-02 00:00:00+00:00: scheduled__2019-06-02T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:02:40,761] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-01 00:00:00+00:00: scheduled__2019-06-01T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:02:40,767] {logging_mixin.py:112} INFO - [2020-06-24 06:02:40,767] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-01 00:00:00+00:00: scheduled__2019-06-01T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:02:40,771] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-02 00:00:00+00:00: scheduled__2019-06-02T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:02:40,780] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:02:40,784] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-02 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:02:40,793] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.093 seconds
+[2020-06-24 06:04:27,389] {scheduler_job.py:154} INFO - Started process (PID=5928) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:04:27,393] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:04:27,393] {logging_mixin.py:112} INFO - [2020-06-24 06:04:27,393] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:04:27,398] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:04:27,421] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:04:27,448] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-03 00:00:00+00:00: scheduled__2019-06-03T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:04:27,450] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-02 00:00:00+00:00: scheduled__2019-06-02T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:04:27,456] {logging_mixin.py:112} INFO - [2020-06-24 06:04:27,456] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-02 00:00:00+00:00: scheduled__2019-06-02T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:04:27,461] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-03 00:00:00+00:00: scheduled__2019-06-03T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:04:27,471] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:04:27,474] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-03 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:04:27,483] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.094 seconds
+[2020-06-24 06:06:14,057] {scheduler_job.py:154} INFO - Started process (PID=6010) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:06:14,061] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:06:14,061] {logging_mixin.py:112} INFO - [2020-06-24 06:06:14,061] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:06:14,066] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:06:14,089] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:06:14,119] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-04 00:00:00+00:00: scheduled__2019-06-04T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:06:14,122] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-03 00:00:00+00:00: scheduled__2019-06-03T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:06:14,128] {logging_mixin.py:112} INFO - [2020-06-24 06:06:14,127] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-03 00:00:00+00:00: scheduled__2019-06-03T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:06:14,133] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-04 00:00:00+00:00: scheduled__2019-06-04T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:06:14,142] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:06:14,146] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-04 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:06:14,155] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.099 seconds
+[2020-06-24 06:08:00,800] {scheduler_job.py:154} INFO - Started process (PID=6089) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:08:00,803] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:08:00,804] {logging_mixin.py:112} INFO - [2020-06-24 06:08:00,804] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:08:00,808] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:08:00,832] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:08:00,859] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-05 00:00:00+00:00: scheduled__2019-06-05T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:08:00,861] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-04 00:00:00+00:00: scheduled__2019-06-04T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:08:00,867] {logging_mixin.py:112} INFO - [2020-06-24 06:08:00,867] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-04 00:00:00+00:00: scheduled__2019-06-04T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:08:00,871] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-05 00:00:00+00:00: scheduled__2019-06-05T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:08:00,881] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:08:00,884] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-05 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:08:00,894] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.095 seconds
+[2020-06-24 06:09:47,481] {scheduler_job.py:154} INFO - Started process (PID=6171) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:09:47,493] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:09:47,493] {logging_mixin.py:112} INFO - [2020-06-24 06:09:47,493] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:09:47,498] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:09:47,521] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:09:47,548] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-06 00:00:00+00:00: scheduled__2019-06-06T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:09:47,551] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-05 00:00:00+00:00: scheduled__2019-06-05T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:09:47,557] {logging_mixin.py:112} INFO - [2020-06-24 06:09:47,557] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-05 00:00:00+00:00: scheduled__2019-06-05T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:09:47,561] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-06 00:00:00+00:00: scheduled__2019-06-06T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:09:47,571] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:09:47,575] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-06 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:09:47,584] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.103 seconds
+[2020-06-24 06:11:34,166] {scheduler_job.py:154} INFO - Started process (PID=6257) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:11:34,171] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:11:34,171] {logging_mixin.py:112} INFO - [2020-06-24 06:11:34,171] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:11:34,175] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:11:34,199] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:11:34,226] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-07 00:00:00+00:00: scheduled__2019-06-07T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:11:34,229] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-06 00:00:00+00:00: scheduled__2019-06-06T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:11:34,235] {logging_mixin.py:112} INFO - [2020-06-24 06:11:34,235] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-06 00:00:00+00:00: scheduled__2019-06-06T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:11:34,239] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-07 00:00:00+00:00: scheduled__2019-06-07T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:11:34,249] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:11:34,252] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-07 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:11:34,261] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.096 seconds
+[2020-06-24 06:13:20,855] {scheduler_job.py:154} INFO - Started process (PID=6341) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:13:20,859] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:13:20,859] {logging_mixin.py:112} INFO - [2020-06-24 06:13:20,859] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:13:20,863] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:13:20,887] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:13:20,913] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-08 00:00:00+00:00: scheduled__2019-06-08T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:13:20,916] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-07 00:00:00+00:00: scheduled__2019-06-07T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:13:20,921] {logging_mixin.py:112} INFO - [2020-06-24 06:13:20,921] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-07 00:00:00+00:00: scheduled__2019-06-07T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:13:20,927] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-08 00:00:00+00:00: scheduled__2019-06-08T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:13:20,936] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:13:20,940] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-08 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:13:20,949] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.095 seconds
+[2020-06-24 06:15:08,165] {scheduler_job.py:154} INFO - Started process (PID=6421) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:15:08,169] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:15:08,170] {logging_mixin.py:112} INFO - [2020-06-24 06:15:08,170] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:15:08,175] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:15:08,198] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:15:08,225] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-09 00:00:00+00:00: scheduled__2019-06-09T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:15:08,227] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-08 00:00:00+00:00: scheduled__2019-06-08T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:15:08,233] {logging_mixin.py:112} INFO - [2020-06-24 06:15:08,233] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-08 00:00:00+00:00: scheduled__2019-06-08T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:15:08,237] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-09 00:00:00+00:00: scheduled__2019-06-09T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:15:08,247] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:15:08,251] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-09 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:15:08,259] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.094 seconds
+[2020-06-24 06:16:54,881] {scheduler_job.py:154} INFO - Started process (PID=6501) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:16:54,885] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:16:54,886] {logging_mixin.py:112} INFO - [2020-06-24 06:16:54,886] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:16:54,891] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:16:54,915] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:16:54,941] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-10 00:00:00+00:00: scheduled__2019-06-10T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:16:54,944] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-09 00:00:00+00:00: scheduled__2019-06-09T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:16:54,949] {logging_mixin.py:112} INFO - [2020-06-24 06:16:54,949] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-09 00:00:00+00:00: scheduled__2019-06-09T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:16:54,954] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-10 00:00:00+00:00: scheduled__2019-06-10T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:16:54,964] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:16:54,967] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-10 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:16:54,976] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.095 seconds
+[2020-06-24 06:18:41,585] {scheduler_job.py:154} INFO - Started process (PID=6583) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:18:41,589] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:18:41,589] {logging_mixin.py:112} INFO - [2020-06-24 06:18:41,589] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:18:41,594] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:18:41,617] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:18:41,644] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-11 00:00:00+00:00: scheduled__2019-06-11T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:18:41,646] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-10 00:00:00+00:00: scheduled__2019-06-10T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:18:41,652] {logging_mixin.py:112} INFO - [2020-06-24 06:18:41,652] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-10 00:00:00+00:00: scheduled__2019-06-10T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:18:41,656] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-11 00:00:00+00:00: scheduled__2019-06-11T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:18:41,666] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:18:41,670] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-11 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:18:41,679] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.094 seconds
+[2020-06-24 06:20:28,295] {scheduler_job.py:154} INFO - Started process (PID=6669) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:20:28,299] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:20:28,299] {logging_mixin.py:112} INFO - [2020-06-24 06:20:28,299] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:20:28,303] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:20:28,328] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:20:28,355] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-12 00:00:00+00:00: scheduled__2019-06-12T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:20:28,358] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-11 00:00:00+00:00: scheduled__2019-06-11T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:20:28,364] {logging_mixin.py:112} INFO - [2020-06-24 06:20:28,363] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-11 00:00:00+00:00: scheduled__2019-06-11T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:20:28,368] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-12 00:00:00+00:00: scheduled__2019-06-12T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:20:28,378] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:20:28,382] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-12 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:20:28,390] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.096 seconds
+[2020-06-24 06:22:14,986] {scheduler_job.py:154} INFO - Started process (PID=6750) to work on /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:22:14,994] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/funvar.py for tasks to queue
+[2020-06-24 06:22:14,994] {logging_mixin.py:112} INFO - [2020-06-24 06:22:14,994] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:22:15,003] {scheduler_job.py:1574} INFO - DAG(s) ['slacks_variable'] retrieved from /home/ec2-user/airflow/dags/funvar.py
+[2020-06-24 06:22:15,047] {scheduler_job.py:1284} INFO - Processing slacks_variable
+[2020-06-24 06:22:15,091] {scheduler_job.py:1294} INFO - Created <DagRun slacks_variable @ 2019-06-13 00:00:00+00:00: scheduled__2019-06-13T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:22:15,098] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-12 00:00:00+00:00: scheduled__2019-06-12T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:22:15,112] {logging_mixin.py:112} INFO - [2020-06-24 06:22:15,112] {dagrun.py:309} INFO - Marking run <DagRun slacks_variable @ 2019-06-12 00:00:00+00:00: scheduled__2019-06-12T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:22:15,116] {scheduler_job.py:759} INFO - Examining DAG run <DagRun slacks_variable @ 2019-06-13 00:00:00+00:00: scheduled__2019-06-13T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:22:15,135] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: slacks_variable> because no tasks in DAG have SLAs
+[2020-06-24 06:22:15,143] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: slacks_variable.testslackbash 2019-06-13 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:22:15,156] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/funvar.py took 0.170 seconds

@@ -1,0 +1,171 @@
+[2020-06-24 05:50:07,459] {scheduler_job.py:154} INFO - Started process (PID=5167) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:50:07,463] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 05:50:07,463] {logging_mixin.py:112} INFO - [2020-06-24 05:50:07,463] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:50:07,466] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:50:07,467] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:50:07,522] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:50:07,541] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.082 seconds
+[2020-06-24 05:51:43,943] {scheduler_job.py:154} INFO - Started process (PID=5229) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:51:43,947] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 05:51:43,947] {logging_mixin.py:112} INFO - [2020-06-24 05:51:43,947] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:51:43,949] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:51:43,951] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:51:44,004] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:51:44,023] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.080 seconds
+[2020-06-24 05:53:20,404] {scheduler_job.py:154} INFO - Started process (PID=5292) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:53:20,408] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 05:53:20,408] {logging_mixin.py:112} INFO - [2020-06-24 05:53:20,408] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:53:20,411] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:53:20,415] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:53:20,466] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:53:20,483] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.079 seconds
+[2020-06-24 05:54:56,906] {scheduler_job.py:154} INFO - Started process (PID=5368) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:54:56,926] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 05:54:56,926] {logging_mixin.py:112} INFO - [2020-06-24 05:54:56,926] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:54:56,945] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:54:56,946] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:54:57,215] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:54:57,291] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.385 seconds
+[2020-06-24 05:56:33,382] {scheduler_job.py:154} INFO - Started process (PID=5507) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:56:33,390] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 05:56:33,390] {logging_mixin.py:112} INFO - [2020-06-24 05:56:33,390] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:56:33,397] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:56:33,398] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:56:33,506] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:56:33,540] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.158 seconds
+[2020-06-24 05:58:09,849] {scheduler_job.py:154} INFO - Started process (PID=5582) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:58:09,853] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 05:58:09,853] {logging_mixin.py:112} INFO - [2020-06-24 05:58:09,853] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:58:09,856] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:58:09,858] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:58:09,909] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 05:58:09,927] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.078 seconds
+[2020-06-24 06:00:07,658] {scheduler_job.py:154} INFO - Started process (PID=5717) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:00:07,662] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:00:07,662] {logging_mixin.py:112} INFO - [2020-06-24 06:00:07,662] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:00:07,665] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:00:07,666] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:00:07,718] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:00:07,735] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.078 seconds
+[2020-06-24 06:01:54,341] {scheduler_job.py:154} INFO - Started process (PID=5814) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:01:54,345] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:01:54,345] {logging_mixin.py:112} INFO - [2020-06-24 06:01:54,345] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:01:54,348] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:01:54,350] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:01:54,401] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:01:54,419] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.078 seconds
+[2020-06-24 06:03:41,126] {scheduler_job.py:154} INFO - Started process (PID=5893) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:03:41,130] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:03:41,130] {logging_mixin.py:112} INFO - [2020-06-24 06:03:41,130] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:03:41,133] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:03:41,135] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:03:41,186] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:03:41,205] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.079 seconds
+[2020-06-24 06:05:27,798] {scheduler_job.py:154} INFO - Started process (PID=5975) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:05:27,803] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:05:27,803] {logging_mixin.py:112} INFO - [2020-06-24 06:05:27,803] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:05:27,806] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:05:27,807] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:05:27,857] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:05:27,876] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.078 seconds
+[2020-06-24 06:07:14,528] {scheduler_job.py:154} INFO - Started process (PID=6057) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:07:14,531] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:07:14,532] {logging_mixin.py:112} INFO - [2020-06-24 06:07:14,532] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:07:14,534] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:07:14,536] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:07:14,587] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:07:14,607] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.079 seconds
+[2020-06-24 06:09:01,213] {scheduler_job.py:154} INFO - Started process (PID=6136) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:09:01,217] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:09:01,218] {logging_mixin.py:112} INFO - [2020-06-24 06:09:01,218] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:09:01,220] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:09:01,222] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:09:01,273] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:09:01,293] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.080 seconds
+[2020-06-24 06:10:47,894] {scheduler_job.py:154} INFO - Started process (PID=6225) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:10:47,906] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:10:47,907] {logging_mixin.py:112} INFO - [2020-06-24 06:10:47,907] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:10:47,910] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:10:47,911] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:10:47,963] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:10:47,982] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.088 seconds
+[2020-06-24 06:12:34,580] {scheduler_job.py:154} INFO - Started process (PID=6305) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:12:34,584] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:12:34,584] {logging_mixin.py:112} INFO - [2020-06-24 06:12:34,584] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:12:34,587] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:12:34,588] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:12:34,638] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:12:34,656] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.077 seconds
+[2020-06-24 06:14:21,885] {scheduler_job.py:154} INFO - Started process (PID=6386) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:14:21,889] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:14:21,889] {logging_mixin.py:112} INFO - [2020-06-24 06:14:21,889] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:14:21,892] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:14:21,893] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:14:21,947] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:14:21,966] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.081 seconds
+[2020-06-24 06:16:08,612] {scheduler_job.py:154} INFO - Started process (PID=6468) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:16:08,616] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:16:08,617] {logging_mixin.py:112} INFO - [2020-06-24 06:16:08,617] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:16:08,619] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:16:08,621] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:16:08,672] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:16:08,691] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.079 seconds
+[2020-06-24 06:17:55,313] {scheduler_job.py:154} INFO - Started process (PID=6548) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:17:55,318] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:17:55,318] {logging_mixin.py:112} INFO - [2020-06-24 06:17:55,318] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:17:55,321] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:17:55,322] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:17:55,374] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:17:55,391] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.078 seconds
+[2020-06-24 06:19:42,018] {scheduler_job.py:154} INFO - Started process (PID=6631) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:19:42,022] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:19:42,022] {logging_mixin.py:112} INFO - [2020-06-24 06:19:42,022] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:19:42,025] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:19:42,026] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:19:42,079] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:19:42,097] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.079 seconds
+[2020-06-24 06:21:28,716] {scheduler_job.py:154} INFO - Started process (PID=6716) to work on /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:21:28,720] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/s3.py for tasks to queue
+[2020-06-24 06:21:28,721] {logging_mixin.py:112} INFO - [2020-06-24 06:21:28,721] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:21:28,723] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'DummyOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:21:28,725] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:21:28,777] {scheduler_job.py:1574} INFO - DAG(s) ['S3'] retrieved from /home/ec2-user/airflow/dags/s3.py
+[2020-06-24 06:21:28,795] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/s3.py took 0.079 seconds

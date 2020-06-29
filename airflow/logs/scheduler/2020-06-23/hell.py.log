@@ -1,0 +1,245 @@
+[2020-06-23 06:32:34,276] {scheduler_job.py:154} INFO - Started process (PID=5378) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:32:34,280] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:32:34,280] {logging_mixin.py:112} INFO - [2020-06-23 06:32:34,280] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:32:34,282] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:32:34,283] {logging_mixin.py:112} INFO - [2020-06-23 06:32:34,282] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:32:34,283] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:32:34,294] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.018 seconds
+[2020-06-23 06:33:30,817] {scheduler_job.py:154} INFO - Started process (PID=5447) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:33:30,820] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:33:30,821] {logging_mixin.py:112} INFO - [2020-06-23 06:33:30,821] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:33:30,822] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:33:30,827] {logging_mixin.py:112} INFO - [2020-06-23 06:33:30,823] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:33:30,827] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:33:30,847] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.031 seconds
+[2020-06-23 06:33:58,647] {scheduler_job.py:154} INFO - Started process (PID=5483) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:33:58,651] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:33:58,652] {logging_mixin.py:112} INFO - [2020-06-23 06:33:58,651] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:33:58,654] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:33:58,654] {logging_mixin.py:112} INFO - [2020-06-23 06:33:58,654] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:33:58,654] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:33:58,666] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.019 seconds
+[2020-06-23 06:34:44,885] {scheduler_job.py:154} INFO - Started process (PID=5541) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:34:44,893] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:34:44,893] {logging_mixin.py:112} INFO - [2020-06-23 06:34:44,893] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:34:44,899] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:34:44,899] {logging_mixin.py:112} INFO - [2020-06-23 06:34:44,899] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:34:44,900] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:34:44,914] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.029 seconds
+[2020-06-23 06:35:12,728] {scheduler_job.py:154} INFO - Started process (PID=5573) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:35:12,732] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:35:12,733] {logging_mixin.py:112} INFO - [2020-06-23 06:35:12,733] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:35:12,734] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:35:12,735] {logging_mixin.py:112} INFO - [2020-06-23 06:35:12,735] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:35:12,735] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:35:12,744] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.016 seconds
+[2020-06-23 06:46:26,494] {scheduler_job.py:154} INFO - Started process (PID=5753) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:46:26,498] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:46:26,499] {logging_mixin.py:112} INFO - [2020-06-23 06:46:26,498] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:46:26,500] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:46:26,501] {logging_mixin.py:112} INFO - [2020-06-23 06:46:26,500] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:46:26,501] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:46:26,511] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.017 seconds
+[2020-06-23 06:47:40,564] {scheduler_job.py:154} INFO - Started process (PID=5800) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:47:40,567] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:47:40,568] {logging_mixin.py:112} INFO - [2020-06-23 06:47:40,567] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:47:40,570] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:47:40,570] {logging_mixin.py:112} INFO - [2020-06-23 06:47:40,570] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:47:40,570] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:47:40,580] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.016 seconds
+[2020-06-23 06:49:55,938] {scheduler_job.py:154} INFO - Started process (PID=5869) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:49:55,941] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:49:55,942] {logging_mixin.py:112} INFO - [2020-06-23 06:49:55,942] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:49:55,943] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:49:55,944] {logging_mixin.py:112} INFO - [2020-06-23 06:49:55,944] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    b=sys.argv[2]
+IndexError: list index out of range
+[2020-06-23 06:49:55,944] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:49:55,954] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.017 seconds
+[2020-06-23 06:52:04,610] {scheduler_job.py:154} INFO - Started process (PID=5945) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:52:04,613] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:52:04,614] {logging_mixin.py:112} INFO - [2020-06-23 06:52:04,613] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:52:04,615] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:52:04,616] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:52:04,624] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.014 seconds
+[2020-06-23 06:53:28,887] {scheduler_job.py:154} INFO - Started process (PID=6006) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:53:28,890] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:53:28,891] {logging_mixin.py:112} INFO - [2020-06-23 06:53:28,891] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:53:28,893] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:53:28,893] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:53:28,898] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.011 seconds
+[2020-06-23 06:59:07,238] {scheduler_job.py:154} INFO - Started process (PID=6068) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:59:07,242] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 06:59:07,242] {logging_mixin.py:112} INFO - [2020-06-23 06:59:07,242] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:59:07,244] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 06:59:07,244] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 06:59:07,249] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.012 seconds
+[2020-06-23 07:00:21,311] {scheduler_job.py:154} INFO - Started process (PID=6122) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:00:21,315] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:00:21,315] {logging_mixin.py:112} INFO - [2020-06-23 07:00:21,315] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:00:21,317] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:00:21,317] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:00:21,322] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.011 seconds
+[2020-06-23 07:01:35,395] {scheduler_job.py:154} INFO - Started process (PID=6183) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:01:35,399] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:01:35,399] {logging_mixin.py:112} INFO - [2020-06-23 07:01:35,399] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:01:35,401] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:01:35,401] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:01:35,406] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.011 seconds
+[2020-06-23 07:02:59,690] {scheduler_job.py:154} INFO - Started process (PID=6243) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:02:59,693] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:02:59,693] {logging_mixin.py:112} INFO - [2020-06-23 07:02:59,693] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:02:59,695] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:02:59,696] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:02:59,700] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.011 seconds
+[2020-06-23 07:04:13,768] {scheduler_job.py:154} INFO - Started process (PID=6292) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:04:13,772] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:04:13,773] {logging_mixin.py:112} INFO - [2020-06-23 07:04:13,772] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:04:13,777] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:04:13,778] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:04:13,782] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.014 seconds
+[2020-06-23 07:05:27,853] {scheduler_job.py:154} INFO - Started process (PID=6343) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:05:27,859] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:05:27,860] {logging_mixin.py:112} INFO - [2020-06-23 07:05:27,860] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:05:27,861] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:05:27,862] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:05:27,866] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.013 seconds
+[2020-06-23 07:22:44,408] {scheduler_job.py:154} INFO - Started process (PID=6645) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:22:44,412] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:22:44,412] {logging_mixin.py:112} INFO - [2020-06-23 07:22:44,412] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:22:44,414] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:22:44,422] {logging_mixin.py:112} INFO - [2020-06-23 07:22:44,420] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    print(Variable.get(a))
+  File "/usr/lib/python2.7/site-packages/airflow/models/variable.py", line 118, in get
+    raise KeyError('Variable {} does not exist'.format(key))
+KeyError: 'Variable scheduler does not exist'
+[2020-06-23 07:22:44,422] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:22:44,429] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.020 seconds
+[2020-06-23 07:23:58,485] {scheduler_job.py:154} INFO - Started process (PID=6716) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:23:58,493] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:23:58,493] {logging_mixin.py:112} INFO - [2020-06-23 07:23:58,493] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:23:58,499] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:23:58,510] {logging_mixin.py:112} INFO - [2020-06-23 07:23:58,509] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    print(Variable.get(a))
+  File "/usr/lib/python2.7/site-packages/airflow/models/variable.py", line 118, in get
+    raise KeyError('Variable {} does not exist'.format(key))
+KeyError: 'Variable scheduler does not exist'
+[2020-06-23 07:23:58,510] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:23:58,520] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.036 seconds
+[2020-06-23 07:25:12,560] {scheduler_job.py:154} INFO - Started process (PID=6766) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:25:12,564] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:25:12,564] {logging_mixin.py:112} INFO - [2020-06-23 07:25:12,564] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:25:12,566] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:25:12,572] {logging_mixin.py:112} INFO - [2020-06-23 07:25:12,572] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    print(Variable.get(a))
+  File "/usr/lib/python2.7/site-packages/airflow/models/variable.py", line 118, in get
+    raise KeyError('Variable {} does not exist'.format(key))
+KeyError: 'Variable scheduler does not exist'
+[2020-06-23 07:25:12,572] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:25:12,579] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.019 seconds
+[2020-06-23 07:26:26,650] {scheduler_job.py:154} INFO - Started process (PID=6815) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:26:26,654] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:26:26,654] {logging_mixin.py:112} INFO - [2020-06-23 07:26:26,654] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:26:26,656] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:26:26,662] {logging_mixin.py:112} INFO - [2020-06-23 07:26:26,662] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    print(Variable.get(a))
+  File "/usr/lib/python2.7/site-packages/airflow/models/variable.py", line 118, in get
+    raise KeyError('Variable {} does not exist'.format(key))
+KeyError: 'Variable scheduler does not exist'
+[2020-06-23 07:26:26,663] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:26:26,673] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.022 seconds
+[2020-06-23 07:27:50,949] {scheduler_job.py:154} INFO - Started process (PID=6875) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:27:50,953] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:27:50,954] {logging_mixin.py:112} INFO - [2020-06-23 07:27:50,954] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:27:50,955] {logging_mixin.py:112} INFO - scheduler
+[2020-06-23 07:27:50,964] {logging_mixin.py:112} INFO - [2020-06-23 07:27:50,964] {dagbag.py:239} ERROR - Failed to import: /home/ec2-user/airflow/dags/hell.py
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/ec2-user/airflow/dags/hell.py", line 10, in <module>
+    print(Variable.get(a))
+  File "/usr/lib/python2.7/site-packages/airflow/models/variable.py", line 118, in get
+    raise KeyError('Variable {} does not exist'.format(key))
+KeyError: 'Variable scheduler does not exist'
+[2020-06-23 07:27:50,964] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:27:50,971] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.022 seconds
+[2020-06-23 07:29:05,028] {scheduler_job.py:154} INFO - Started process (PID=6924) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:29:05,035] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:29:05,035] {logging_mixin.py:112} INFO - [2020-06-23 07:29:05,035] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:29:05,037] {logging_mixin.py:112} INFO - [2020-06-23 07:29:05,036] {dagbag.py:222} INFO - File /home/ec2-user/airflow/dags/hell.py assumed to contain no DAGs. Skipping.
+[2020-06-23 07:29:05,037] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:29:05,045] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.017 seconds
+[2020-06-23 07:30:29,420] {scheduler_job.py:154} INFO - Started process (PID=6990) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:30:29,423] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:30:29,424] {logging_mixin.py:112} INFO - [2020-06-23 07:30:29,424] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:30:29,425] {logging_mixin.py:112} INFO - [2020-06-23 07:30:29,425] {dagbag.py:222} INFO - File /home/ec2-user/airflow/dags/hell.py assumed to contain no DAGs. Skipping.
+[2020-06-23 07:30:29,425] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:30:29,430] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.010 seconds
+[2020-06-23 07:31:43,499] {scheduler_job.py:154} INFO - Started process (PID=7039) to work on /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:31:43,503] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hell.py for tasks to queue
+[2020-06-23 07:31:43,504] {logging_mixin.py:112} INFO - [2020-06-23 07:31:43,504] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:31:43,505] {logging_mixin.py:112} INFO - [2020-06-23 07:31:43,505] {dagbag.py:222} INFO - File /home/ec2-user/airflow/dags/hell.py assumed to contain no DAGs. Skipping.
+[2020-06-23 07:31:43,505] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/ec2-user/airflow/dags/hell.py
+[2020-06-23 07:31:43,510] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hell.py took 0.011 seconds

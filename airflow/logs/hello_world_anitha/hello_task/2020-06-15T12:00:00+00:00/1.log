@@ -1,0 +1,13 @@
+[2020-06-17 07:11:23,021] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: hello_world_anitha.hello_task 2020-06-15T12:00:00+00:00 [queued]>
+[2020-06-17 07:11:23,031] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: hello_world_anitha.hello_task 2020-06-15T12:00:00+00:00 [queued]>
+[2020-06-17 07:11:23,031] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 07:11:23,032] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-17 07:11:23,032] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 07:11:23,041] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): hello_task> on 2020-06-15T12:00:00+00:00
+[2020-06-17 07:11:23,043] {standard_task_runner.py:53} INFO - Started process 3561 to run task
+[2020-06-17 07:11:23,099] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: hello_world_anitha.hello_task 2020-06-15T12:00:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-17 07:11:23,112] {python_operator.py:114} INFO - Done. Returned value was: Hello Wolrd
+[2020-06-17 07:11:23,124] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=hello_world_anitha, task_id=hello_task, execution_date=20200615T120000, start_date=20200617T071123, end_date=20200617T071123
+[2020-06-17 07:11:33,014] {logging_mixin.py:112} INFO - [2020-06-17 07:11:33,014] {local_task_job.py:103} INFO - Task exited with return code 0

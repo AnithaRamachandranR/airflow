@@ -1,0 +1,95 @@
+[2020-06-24 05:49:53,456] {scheduler_job.py:154} INFO - Started process (PID=5150) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:49:53,459] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:49:53,460] {logging_mixin.py:112} INFO - [2020-06-24 05:49:53,460] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:49:53,481] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:49:53,499] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.043 seconds
+[2020-06-24 05:51:29,943] {scheduler_job.py:154} INFO - Started process (PID=5222) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:51:29,946] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:51:29,947] {logging_mixin.py:112} INFO - [2020-06-24 05:51:29,947] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:51:29,968] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:51:29,990] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.047 seconds
+[2020-06-24 05:53:06,404] {scheduler_job.py:154} INFO - Started process (PID=5285) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:53:06,408] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:53:06,408] {logging_mixin.py:112} INFO - [2020-06-24 05:53:06,408] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:53:06,430] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:53:06,448] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.044 seconds
+[2020-06-24 05:54:42,887] {scheduler_job.py:154} INFO - Started process (PID=5346) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:54:42,891] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:54:42,892] {logging_mixin.py:112} INFO - [2020-06-24 05:54:42,892] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:54:42,911] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:54:42,931] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.043 seconds
+[2020-06-24 05:56:19,375] {scheduler_job.py:154} INFO - Started process (PID=5498) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:56:19,379] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:56:19,379] {logging_mixin.py:112} INFO - [2020-06-24 05:56:19,379] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:56:19,399] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:56:19,417] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 05:57:55,848] {scheduler_job.py:154} INFO - Started process (PID=5570) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:57:55,852] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:57:55,852] {logging_mixin.py:112} INFO - [2020-06-24 05:57:55,852] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:57:55,871] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:57:55,890] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 05:59:53,648] {scheduler_job.py:154} INFO - Started process (PID=5704) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:59:53,652] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 05:59:53,652] {logging_mixin.py:112} INFO - [2020-06-24 05:59:53,652] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:59:53,671] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 05:59:53,689] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 06:01:40,331] {scheduler_job.py:154} INFO - Started process (PID=5804) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:01:40,334] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:01:40,335] {logging_mixin.py:112} INFO - [2020-06-24 06:01:40,335] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:01:40,354] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:01:40,372] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 06:03:27,113] {scheduler_job.py:154} INFO - Started process (PID=5886) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:03:27,121] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:03:27,121] {logging_mixin.py:112} INFO - [2020-06-24 06:03:27,121] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:03:27,141] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:03:27,160] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.048 seconds
+[2020-06-24 06:05:13,788] {scheduler_job.py:154} INFO - Started process (PID=5965) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:05:13,792] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:05:13,793] {logging_mixin.py:112} INFO - [2020-06-24 06:05:13,793] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:05:13,811] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:05:13,830] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.043 seconds
+[2020-06-24 06:07:00,517] {scheduler_job.py:154} INFO - Started process (PID=6050) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:07:00,521] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:07:00,522] {logging_mixin.py:112} INFO - [2020-06-24 06:07:00,521] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:07:00,540] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:07:00,559] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 06:08:47,202] {scheduler_job.py:154} INFO - Started process (PID=6129) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:08:47,211] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:08:47,211] {logging_mixin.py:112} INFO - [2020-06-24 06:08:47,211] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:08:47,231] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:08:47,248] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.046 seconds
+[2020-06-24 06:10:33,886] {scheduler_job.py:154} INFO - Started process (PID=6214) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:10:33,890] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:10:33,890] {logging_mixin.py:112} INFO - [2020-06-24 06:10:33,890] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:10:33,910] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:10:33,928] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 06:12:20,569] {scheduler_job.py:154} INFO - Started process (PID=6298) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:12:20,618] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:12:20,618] {logging_mixin.py:112} INFO - [2020-06-24 06:12:20,618] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:12:20,637] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:12:20,656] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.086 seconds
+[2020-06-24 06:14:07,875] {scheduler_job.py:154} INFO - Started process (PID=6379) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:14:07,879] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:14:07,879] {logging_mixin.py:112} INFO - [2020-06-24 06:14:07,879] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:14:07,899] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:14:07,918] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.043 seconds
+[2020-06-24 06:15:54,602] {scheduler_job.py:154} INFO - Started process (PID=6458) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:15:54,608] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:15:54,608] {logging_mixin.py:112} INFO - [2020-06-24 06:15:54,608] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:15:54,628] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:15:54,646] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.043 seconds
+[2020-06-24 06:17:41,304] {scheduler_job.py:154} INFO - Started process (PID=6541) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:17:41,309] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:17:41,309] {logging_mixin.py:112} INFO - [2020-06-24 06:17:41,309] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:17:41,328] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:17:41,346] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.043 seconds
+[2020-06-24 06:19:28,007] {scheduler_job.py:154} INFO - Started process (PID=6621) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:19:28,011] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:19:28,012] {logging_mixin.py:112} INFO - [2020-06-24 06:19:28,011] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:19:28,031] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:19:28,049] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds
+[2020-06-24 06:21:14,705] {scheduler_job.py:154} INFO - Started process (PID=6709) to work on /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:21:14,709] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/email.py for tasks to queue
+[2020-06-24 06:21:14,710] {logging_mixin.py:112} INFO - [2020-06-24 06:21:14,709] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:21:14,729] {scheduler_job.py:1574} INFO - DAG(s) ['email_example'] retrieved from /home/ec2-user/airflow/dags/email.py
+[2020-06-24 06:21:14,748] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/email.py took 0.042 seconds

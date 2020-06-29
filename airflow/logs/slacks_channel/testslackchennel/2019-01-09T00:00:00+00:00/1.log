@@ -1,0 +1,57 @@
+[2020-06-24 06:13:52,751] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slacks_channel.testslackchennel 2019-01-09T00:00:00+00:00 [queued]>
+[2020-06-24 06:13:52,758] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slacks_channel.testslackchennel 2019-01-09T00:00:00+00:00 [queued]>
+[2020-06-24 06:13:52,758] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-24 06:13:52,759] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-24 06:13:52,759] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-24 06:13:52,769] {taskinstance.py:900} INFO - Executing <Task(BashOperator): testslackchennel> on 2019-01-09T00:00:00+00:00
+[2020-06-24 06:13:52,771] {standard_task_runner.py:53} INFO - Started process 6371 to run task
+[2020-06-24 06:13:52,826] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: slacks_channel.testslackchennel 2019-01-09T00:00:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-24 06:13:52,838] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /tmp
+[2020-06-24 06:13:52,839] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmpIlh2qy/testslackchennelrJ_ojS
+[2020-06-24 06:13:52,839] {bash_operator.py:115} INFO - Running command: python /home/ec2-user/airflow/dags/createslack.py 
+[2020-06-24 06:13:52,843] {bash_operator.py:122} INFO - Output:
+[2020-06-24 06:13:53,428] {bash_operator.py:126} INFO - Traceback (most recent call last):
+[2020-06-24 06:13:53,429] {bash_operator.py:126} INFO -   File "/home/ec2-user/airflow/dags/createslack.py", line 1, in <module>
+[2020-06-24 06:13:53,429] {bash_operator.py:126} INFO -     import requests
+[2020-06-24 06:13:53,429] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/requests/__init__.py", line 43, in <module>
+[2020-06-24 06:13:53,429] {bash_operator.py:126} INFO -     import urllib3
+[2020-06-24 06:13:53,429] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/urllib3/__init__.py", line 8, in <module>
+[2020-06-24 06:13:53,430] {bash_operator.py:126} INFO -     from .connectionpool import (
+[2020-06-24 06:13:53,430] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/urllib3/connectionpool.py", line 29, in <module>
+[2020-06-24 06:13:53,430] {bash_operator.py:126} INFO -     from .connection import (
+[2020-06-24 06:13:53,430] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/urllib3/connection.py", line 38, in <module>
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -     from .util.ssl_ import (
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/urllib3/util/__init__.py", line 21, in <module>
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -     from .retry import Retry
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/urllib3/util/retry.py", line 6, in <module>
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -     import email
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -   File "/home/ec2-user/airflow/dags/email.py", line 2, in <module>
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -     from airflow import DAG
+[2020-06-24 06:13:53,432] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/airflow/__init__.py", line 42, in <module>
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -     from airflow.models import DAG
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/airflow/models/__init__.py", line 21, in <module>
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -     from airflow.models.baseoperator import BaseOperator, BaseOperatorLink  # noqa: F401
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/airflow/models/baseoperator.py", line 43, in <module>
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -     from airflow.models.dag import DAG
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/airflow/models/dag.py", line 55, in <module>
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -     from airflow.models.taskinstance import TaskInstance, clear_task_instances
+[2020-06-24 06:13:53,433] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 61, in <module>
+[2020-06-24 06:13:53,434] {bash_operator.py:126} INFO -     from airflow.utils.email import send_email
+[2020-06-24 06:13:53,434] {bash_operator.py:126} INFO -   File "/usr/lib/python2.7/site-packages/airflow/utils/email.py", line 33, in <module>
+[2020-06-24 06:13:53,434] {bash_operator.py:126} INFO -     import smtplib
+[2020-06-24 06:13:53,434] {bash_operator.py:126} INFO -   File "/usr/lib64/python2.7/smtplib.py", line 46, in <module>
+[2020-06-24 06:13:53,434] {bash_operator.py:126} INFO -     import email.utils
+[2020-06-24 06:13:53,434] {bash_operator.py:126} INFO - ImportError: No module named utils
+[2020-06-24 06:13:53,460] {bash_operator.py:130} INFO - Command exited with return code 1
+[2020-06-24 06:13:53,465] {taskinstance.py:1145} ERROR - Bash command failed
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/usr/lib/python2.7/site-packages/airflow/operators/bash_operator.py", line 134, in execute
+    raise AirflowException("Bash command failed")
+AirflowException: Bash command failed
+[2020-06-24 06:13:53,466] {taskinstance.py:1202} INFO - Marking task as FAILED.dag_id=slacks_channel, task_id=testslackchennel, execution_date=20190109T000000, start_date=20200624T061352, end_date=20200624T061353
+[2020-06-24 06:14:02,748] {logging_mixin.py:112} INFO - [2020-06-24 06:14:02,748] {local_task_job.py:103} INFO - Task exited with return code 1

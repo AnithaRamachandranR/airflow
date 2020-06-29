@@ -1,0 +1,42 @@
+[2020-06-23 11:43:02,292] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slacks_variable.testslackbash 2019-03-29T00:00:00+00:00 [queued]>
+[2020-06-23 11:43:02,299] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slacks_variable.testslackbash 2019-03-29T00:00:00+00:00 [queued]>
+[2020-06-23 11:43:02,299] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-23 11:43:02,299] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-23 11:43:02,299] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-23 11:43:02,310] {taskinstance.py:900} INFO - Executing <Task(BashOperator): testslackbash> on 2019-03-29T00:00:00+00:00
+[2020-06-23 11:43:02,312] {standard_task_runner.py:53} INFO - Started process 5298 to run task
+[2020-06-23 11:43:02,365] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: slacks_variable.testslackbash 2019-03-29T00:00:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-23 11:43:02,416] {taskinstance.py:1145} ERROR - Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 964, in _run_raw_task
+    self.render_templates(context=context)
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 1426, in render_templates
+    self.task.render_template_fields(context)
+  File "/usr/lib/python2.7/site-packages/airflow/models/baseoperator.py", line 716, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/usr/lib/python2.7/site-packages/airflow/models/baseoperator.py", line 723, in _do_render_template_fields
+    rendered_content = self.render_template(content, context, jinja_env, seen_oids)
+  File "/usr/lib/python2.7/site-packages/airflow/models/baseoperator.py", line 752, in render_template
+    return jinja_env.from_string(content).render(**context)
+  File "/usr/lib64/python2.7/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/usr/lib64/python2.7/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "<template>", line 1, in top-level template code
+  File "/usr/lib64/python2.7/site-packages/jinja2/environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 1337, in __getattr__
+    self.var = Variable.get(item, deserialize_json=True)
+  File "/usr/lib/python2.7/site-packages/airflow/models/variable.py", line 121, in get
+    return json.loads(var_val)
+  File "/usr/lib64/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+[2020-06-23 11:43:02,418] {taskinstance.py:1202} INFO - Marking task as FAILED.dag_id=slacks_variable, task_id=testslackbash, execution_date=20190329T000000, start_date=20200623T114302, end_date=20200623T114302
+[2020-06-23 11:43:12,286] {logging_mixin.py:112} INFO - [2020-06-23 11:43:12,286] {local_task_job.py:103} INFO - Task exited with return code 1

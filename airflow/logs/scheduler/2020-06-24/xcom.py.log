@@ -1,0 +1,133 @@
+[2020-06-24 05:50:05,472] {scheduler_job.py:154} INFO - Started process (PID=5166) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:50:05,477] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 05:50:05,478] {logging_mixin.py:112} INFO - [2020-06-24 05:50:05,478] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:50:05,481] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:50:05,487] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:50:05,507] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.035 seconds
+[2020-06-24 05:51:41,956] {scheduler_job.py:154} INFO - Started process (PID=5228) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:51:41,960] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 05:51:41,960] {logging_mixin.py:112} INFO - [2020-06-24 05:51:41,960] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:51:41,963] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:51:41,969] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:51:41,992] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.036 seconds
+[2020-06-24 05:53:18,417] {scheduler_job.py:154} INFO - Started process (PID=5291) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:53:18,423] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 05:53:18,423] {logging_mixin.py:112} INFO - [2020-06-24 05:53:18,423] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:53:18,430] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:53:18,432] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:53:18,454] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.036 seconds
+[2020-06-24 05:54:54,910] {scheduler_job.py:154} INFO - Started process (PID=5356) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:54:54,914] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 05:54:54,914] {logging_mixin.py:112} INFO - [2020-06-24 05:54:54,914] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:54:54,922] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:54:54,929] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:54:54,966] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.056 seconds
+[2020-06-24 05:56:31,389] {scheduler_job.py:154} INFO - Started process (PID=5504) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:56:31,393] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 05:56:31,393] {logging_mixin.py:112} INFO - [2020-06-24 05:56:31,393] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:56:31,397] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:56:31,400] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:56:31,421] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds
+[2020-06-24 05:58:07,870] {scheduler_job.py:154} INFO - Started process (PID=5581) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:58:07,884] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 05:58:07,884] {logging_mixin.py:112} INFO - [2020-06-24 05:58:07,884] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:58:07,892] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 05:58:07,895] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 05:58:07,926] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.057 seconds
+[2020-06-24 06:00:05,662] {scheduler_job.py:154} INFO - Started process (PID=5716) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:00:05,666] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:00:05,666] {logging_mixin.py:112} INFO - [2020-06-24 06:00:05,666] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:00:05,669] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:00:05,672] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:00:05,693] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.031 seconds
+[2020-06-24 06:01:52,345] {scheduler_job.py:154} INFO - Started process (PID=5813) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:01:52,349] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:01:52,349] {logging_mixin.py:112} INFO - [2020-06-24 06:01:52,349] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:01:52,353] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:01:52,356] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:01:52,377] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds
+[2020-06-24 06:03:39,130] {scheduler_job.py:154} INFO - Started process (PID=5892) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:03:39,134] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:03:39,134] {logging_mixin.py:112} INFO - [2020-06-24 06:03:39,134] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:03:39,138] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:03:39,140] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:03:39,162] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds
+[2020-06-24 06:05:25,802] {scheduler_job.py:154} INFO - Started process (PID=5974) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:05:25,807] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:05:25,807] {logging_mixin.py:112} INFO - [2020-06-24 06:05:25,807] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:05:25,810] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:05:25,813] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:05:25,834] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds
+[2020-06-24 06:07:12,532] {scheduler_job.py:154} INFO - Started process (PID=6056) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:07:12,536] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:07:12,536] {logging_mixin.py:112} INFO - [2020-06-24 06:07:12,536] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:07:12,540] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:07:12,542] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:07:12,564] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.033 seconds
+[2020-06-24 06:08:59,216] {scheduler_job.py:154} INFO - Started process (PID=6135) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:08:59,223] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:08:59,223] {logging_mixin.py:112} INFO - [2020-06-24 06:08:59,223] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:08:59,227] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:08:59,230] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:08:59,250] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.034 seconds
+[2020-06-24 06:10:45,899] {scheduler_job.py:154} INFO - Started process (PID=6224) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:10:45,902] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:10:45,903] {logging_mixin.py:112} INFO - [2020-06-24 06:10:45,903] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:10:45,907] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:10:45,909] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:10:45,931] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.033 seconds
+[2020-06-24 06:12:32,584] {scheduler_job.py:154} INFO - Started process (PID=6304) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:12:32,588] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:12:32,588] {logging_mixin.py:112} INFO - [2020-06-24 06:12:32,588] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:12:32,592] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:12:32,594] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:12:32,615] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds
+[2020-06-24 06:14:19,889] {scheduler_job.py:154} INFO - Started process (PID=6385) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:14:19,893] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:14:19,894] {logging_mixin.py:112} INFO - [2020-06-24 06:14:19,894] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:14:19,897] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:14:19,900] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:14:19,921] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds
+[2020-06-24 06:16:06,616] {scheduler_job.py:154} INFO - Started process (PID=6467) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:16:06,620] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:16:06,620] {logging_mixin.py:112} INFO - [2020-06-24 06:16:06,620] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:16:06,625] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:16:06,627] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:16:06,647] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.031 seconds
+[2020-06-24 06:17:53,317] {scheduler_job.py:154} INFO - Started process (PID=6547) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:17:53,345] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:17:53,345] {logging_mixin.py:112} INFO - [2020-06-24 06:17:53,345] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:17:53,349] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:17:53,351] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:17:53,371] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.054 seconds
+[2020-06-24 06:19:40,022] {scheduler_job.py:154} INFO - Started process (PID=6630) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:19:40,026] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:19:40,026] {logging_mixin.py:112} INFO - [2020-06-24 06:19:40,026] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:19:40,030] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:19:40,032] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:19:40,053] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.031 seconds
+[2020-06-24 06:21:26,720] {scheduler_job.py:154} INFO - Started process (PID=6715) to work on /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:21:26,724] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/xcom.py for tasks to queue
+[2020-06-24 06:21:26,725] {logging_mixin.py:112} INFO - [2020-06-24 06:21:26,724] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:21:26,728] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/utils/helpers.py:442: DeprecationWarning: Importing 'PythonOperator' directly from 'airflow.operators' has been deprecated. Please import from 'airflow.operators.[operator_module]' instead. Support for direct imports will be dropped entirely in Airflow 2.0.
+  DeprecationWarning)
+[2020-06-24 06:21:26,731] {scheduler_job.py:1574} INFO - DAG(s) ['example_xcom'] retrieved from /home/ec2-user/airflow/dags/xcom.py
+[2020-06-24 06:21:26,752] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/xcom.py took 0.032 seconds

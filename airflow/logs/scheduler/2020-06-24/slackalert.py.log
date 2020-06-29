@@ -1,0 +1,95 @@
+[2020-06-24 05:49:39,426] {scheduler_job.py:154} INFO - Started process (PID=5140) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:49:39,429] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:49:39,430] {logging_mixin.py:112} INFO - [2020-06-24 05:49:39,430] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:49:39,451] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:49:39,472] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.046 seconds
+[2020-06-24 05:51:15,911] {scheduler_job.py:154} INFO - Started process (PID=5213) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:51:15,915] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:51:15,915] {logging_mixin.py:112} INFO - [2020-06-24 05:51:15,915] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:51:15,937] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:51:15,955] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.044 seconds
+[2020-06-24 05:52:52,372] {scheduler_job.py:154} INFO - Started process (PID=5276) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:52:52,376] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:52:52,376] {logging_mixin.py:112} INFO - [2020-06-24 05:52:52,376] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:52:52,398] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:52:52,416] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.045 seconds
+[2020-06-24 05:54:28,855] {scheduler_job.py:154} INFO - Started process (PID=5337) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:54:28,859] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:54:28,859] {logging_mixin.py:112} INFO - [2020-06-24 05:54:28,859] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:54:28,878] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:54:28,898] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 05:56:05,342] {scheduler_job.py:154} INFO - Started process (PID=5488) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:56:05,348] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:56:05,348] {logging_mixin.py:112} INFO - [2020-06-24 05:56:05,348] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:56:05,367] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:56:05,386] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.044 seconds
+[2020-06-24 05:57:41,816] {scheduler_job.py:154} INFO - Started process (PID=5561) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:57:41,819] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:57:41,820] {logging_mixin.py:112} INFO - [2020-06-24 05:57:41,820] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:57:41,839] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:57:41,859] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 05:59:18,288] {scheduler_job.py:154} INFO - Started process (PID=5674) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:59:18,292] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 05:59:18,292] {logging_mixin.py:112} INFO - [2020-06-24 05:59:18,292] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:59:18,311] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 05:59:18,331] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 06:01:16,111] {scheduler_job.py:154} INFO - Started process (PID=5786) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:01:16,115] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:01:16,115] {logging_mixin.py:112} INFO - [2020-06-24 06:01:16,115] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:01:16,134] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:01:16,153] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.042 seconds
+[2020-06-24 06:03:02,881] {scheduler_job.py:154} INFO - Started process (PID=5865) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:03:02,885] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:03:02,885] {logging_mixin.py:112} INFO - [2020-06-24 06:03:02,885] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:03:02,904] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:03:02,923] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.042 seconds
+[2020-06-24 06:04:49,551] {scheduler_job.py:154} INFO - Started process (PID=5944) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:04:49,555] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:04:49,555] {logging_mixin.py:112} INFO - [2020-06-24 06:04:49,555] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:04:49,575] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:04:49,594] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 06:06:36,252] {scheduler_job.py:154} INFO - Started process (PID=6029) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:06:36,256] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:06:36,256] {logging_mixin.py:112} INFO - [2020-06-24 06:06:36,256] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:06:36,275] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:06:36,294] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.042 seconds
+[2020-06-24 06:08:22,977] {scheduler_job.py:154} INFO - Started process (PID=6108) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:08:22,981] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:08:22,981] {logging_mixin.py:112} INFO - [2020-06-24 06:08:22,981] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:08:23,000] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:08:23,020] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 06:10:09,664] {scheduler_job.py:154} INFO - Started process (PID=6196) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:10:09,668] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:10:09,669] {logging_mixin.py:112} INFO - [2020-06-24 06:10:09,669] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:10:09,688] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:10:09,708] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.044 seconds
+[2020-06-24 06:11:56,338] {scheduler_job.py:154} INFO - Started process (PID=6277) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:11:56,342] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:11:56,342] {logging_mixin.py:112} INFO - [2020-06-24 06:11:56,342] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:11:56,361] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:11:56,380] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.042 seconds
+[2020-06-24 06:13:43,038] {scheduler_job.py:154} INFO - Started process (PID=6357) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:13:43,042] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:13:43,042] {logging_mixin.py:112} INFO - [2020-06-24 06:13:43,042] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:13:43,061] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:13:43,080] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.042 seconds
+[2020-06-24 06:15:30,355] {scheduler_job.py:154} INFO - Started process (PID=6440) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:15:30,359] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:15:30,359] {logging_mixin.py:112} INFO - [2020-06-24 06:15:30,359] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:15:30,379] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:15:30,398] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 06:17:17,068] {scheduler_job.py:154} INFO - Started process (PID=6520) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:17:17,071] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:17:17,072] {logging_mixin.py:112} INFO - [2020-06-24 06:17:17,072] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:17:17,091] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:17:17,111] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.044 seconds
+[2020-06-24 06:19:03,754] {scheduler_job.py:154} INFO - Started process (PID=6599) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:19:03,757] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:19:03,758] {logging_mixin.py:112} INFO - [2020-06-24 06:19:03,758] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:19:03,777] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:19:03,797] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.043 seconds
+[2020-06-24 06:20:50,467] {scheduler_job.py:154} INFO - Started process (PID=6688) to work on /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:20:50,471] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slackalert.py for tasks to queue
+[2020-06-24 06:20:50,472] {logging_mixin.py:112} INFO - [2020-06-24 06:20:50,472] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:20:50,491] {scheduler_job.py:1574} INFO - DAG(s) ['slack_alert'] retrieved from /home/ec2-user/airflow/dags/slackalert.py
+[2020-06-24 06:20:50,509] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slackalert.py took 0.042 seconds

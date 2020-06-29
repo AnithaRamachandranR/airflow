@@ -1,0 +1,13 @@
+[2020-06-17 11:10:21,003] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: email_example.send_email 2020-06-17T11:09:00+00:00 [queued]>
+[2020-06-17 11:10:21,010] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: email_example.send_email 2020-06-17T11:09:00+00:00 [queued]>
+[2020-06-17 11:10:21,010] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 11:10:21,010] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-17 11:10:21,010] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 11:10:21,020] {taskinstance.py:900} INFO - Executing <Task(EmailOperator): send_email> on 2020-06-17T11:09:00+00:00
+[2020-06-17 11:10:21,021] {standard_task_runner.py:53} INFO - Started process 4299 to run task
+[2020-06-17 11:10:21,078] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: email_example.send_email 2020-06-17T11:09:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-17 11:10:21,266] {logging_mixin.py:112} INFO - [2020-06-17 11:10:21,266] {email.py:131} INFO - Sent an alert email to [u'anitha28ramachandran@gmail.com']
+[2020-06-17 11:10:21,805] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=email_example, task_id=send_email, execution_date=20200617T110900, start_date=20200617T111021, end_date=20200617T111021
+[2020-06-17 11:10:30,999] {logging_mixin.py:112} INFO - [2020-06-17 11:10:30,999] {local_task_job.py:103} INFO - Task exited with return code 0

@@ -1,0 +1,190 @@
+[2020-06-24 05:49:37,423] {scheduler_job.py:154} INFO - Started process (PID=5138) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:49:37,427] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:49:37,428] {logging_mixin.py:112} INFO - [2020-06-24 05:49:37,428] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:49:37,491] {logging_mixin.py:112} INFO - [2020-06-24 05:49:37,490] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:49:37,493] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:49:37,508] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:49:37,523] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.100 seconds
+[2020-06-24 05:51:13,909] {scheduler_job.py:154} INFO - Started process (PID=5211) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:51:13,913] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:51:13,913] {logging_mixin.py:112} INFO - [2020-06-24 05:51:13,913] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:51:13,977] {logging_mixin.py:112} INFO - [2020-06-24 05:51:13,976] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:51:13,979] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:51:13,993] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:51:14,008] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.099 seconds
+[2020-06-24 05:52:50,369] {scheduler_job.py:154} INFO - Started process (PID=5274) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:52:50,373] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:52:50,374] {logging_mixin.py:112} INFO - [2020-06-24 05:52:50,373] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:52:50,438] {logging_mixin.py:112} INFO - [2020-06-24 05:52:50,436] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:52:50,440] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:52:50,454] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:52:50,471] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.101 seconds
+[2020-06-24 05:54:26,853] {scheduler_job.py:154} INFO - Started process (PID=5335) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:54:26,861] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:54:26,861] {logging_mixin.py:112} INFO - [2020-06-24 05:54:26,861] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:54:26,923] {logging_mixin.py:112} INFO - [2020-06-24 05:54:26,922] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:54:26,925] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:54:26,939] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:54:26,955] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.102 seconds
+[2020-06-24 05:56:03,340] {scheduler_job.py:154} INFO - Started process (PID=5486) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:56:03,344] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:56:03,345] {logging_mixin.py:112} INFO - [2020-06-24 05:56:03,345] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:56:03,406] {logging_mixin.py:112} INFO - [2020-06-24 05:56:03,405] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:56:03,408] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:56:03,422] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:56:03,437] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 05:57:39,813] {scheduler_job.py:154} INFO - Started process (PID=5559) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:57:39,817] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:57:39,818] {logging_mixin.py:112} INFO - [2020-06-24 05:57:39,817] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:57:39,879] {logging_mixin.py:112} INFO - [2020-06-24 05:57:39,878] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:57:39,881] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:57:39,896] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:57:39,911] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.098 seconds
+[2020-06-24 05:59:16,285] {scheduler_job.py:154} INFO - Started process (PID=5672) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:59:16,289] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 05:59:16,290] {logging_mixin.py:112} INFO - [2020-06-24 05:59:16,290] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:59:16,351] {logging_mixin.py:112} INFO - [2020-06-24 05:59:16,350] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 05:59:16,353] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 05:59:16,367] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 05:59:16,382] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 06:01:14,109] {scheduler_job.py:154} INFO - Started process (PID=5781) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:01:14,113] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:01:14,113] {logging_mixin.py:112} INFO - [2020-06-24 06:01:14,113] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:01:14,174] {logging_mixin.py:112} INFO - [2020-06-24 06:01:14,173] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:01:14,176] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:01:14,190] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:01:14,206] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 06:03:00,879] {scheduler_job.py:154} INFO - Started process (PID=5863) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:03:00,883] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:03:00,883] {logging_mixin.py:112} INFO - [2020-06-24 06:03:00,883] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:03:00,946] {logging_mixin.py:112} INFO - [2020-06-24 06:03:00,945] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:03:00,949] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:03:00,963] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:03:00,979] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.100 seconds
+[2020-06-24 06:04:47,549] {scheduler_job.py:154} INFO - Started process (PID=5942) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:04:47,553] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:04:47,553] {logging_mixin.py:112} INFO - [2020-06-24 06:04:47,553] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:04:47,615] {logging_mixin.py:112} INFO - [2020-06-24 06:04:47,614] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:04:47,617] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:04:47,631] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:04:47,647] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.099 seconds
+[2020-06-24 06:06:34,250] {scheduler_job.py:154} INFO - Started process (PID=6027) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:06:34,255] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:06:34,256] {logging_mixin.py:112} INFO - [2020-06-24 06:06:34,255] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:06:34,317] {logging_mixin.py:112} INFO - [2020-06-24 06:06:34,315] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:06:34,319] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:06:34,333] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:06:34,354] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.105 seconds
+[2020-06-24 06:08:20,975] {scheduler_job.py:154} INFO - Started process (PID=6106) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:08:20,979] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:08:20,979] {logging_mixin.py:112} INFO - [2020-06-24 06:08:20,979] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:08:21,041] {logging_mixin.py:112} INFO - [2020-06-24 06:08:21,039] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:08:21,043] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:08:21,057] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:08:21,072] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 06:10:07,670] {scheduler_job.py:154} INFO - Started process (PID=6194) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:10:07,678] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:10:07,678] {logging_mixin.py:112} INFO - [2020-06-24 06:10:07,678] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:10:07,755] {logging_mixin.py:112} INFO - [2020-06-24 06:10:07,754] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:10:07,757] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:10:07,772] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:10:07,787] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.117 seconds
+[2020-06-24 06:11:54,336] {scheduler_job.py:154} INFO - Started process (PID=6275) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:11:54,339] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:11:54,340] {logging_mixin.py:112} INFO - [2020-06-24 06:11:54,340] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:11:54,401] {logging_mixin.py:112} INFO - [2020-06-24 06:11:54,400] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:11:54,403] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:11:54,418] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:11:54,432] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 06:13:41,035] {scheduler_job.py:154} INFO - Started process (PID=6355) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:13:41,039] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:13:41,039] {logging_mixin.py:112} INFO - [2020-06-24 06:13:41,039] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:13:41,101] {logging_mixin.py:112} INFO - [2020-06-24 06:13:41,100] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:13:41,103] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:13:41,117] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:13:41,132] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 06:15:28,353] {scheduler_job.py:154} INFO - Started process (PID=6438) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:15:28,357] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:15:28,357] {logging_mixin.py:112} INFO - [2020-06-24 06:15:28,357] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:15:28,419] {logging_mixin.py:112} INFO - [2020-06-24 06:15:28,417] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:15:28,421] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:15:28,435] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:15:28,450] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.097 seconds
+[2020-06-24 06:17:15,065] {scheduler_job.py:154} INFO - Started process (PID=6518) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:17:15,069] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:17:15,070] {logging_mixin.py:112} INFO - [2020-06-24 06:17:15,069] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:17:15,130] {logging_mixin.py:112} INFO - [2020-06-24 06:17:15,129] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:17:15,132] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:17:15,146] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:17:15,163] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.098 seconds
+[2020-06-24 06:19:01,751] {scheduler_job.py:154} INFO - Started process (PID=6597) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:19:01,772] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:19:01,772] {logging_mixin.py:112} INFO - [2020-06-24 06:19:01,772] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:19:01,836] {logging_mixin.py:112} INFO - [2020-06-24 06:19:01,834] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:19:01,838] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:19:01,852] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:19:01,868] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.117 seconds
+[2020-06-24 06:20:48,465] {scheduler_job.py:154} INFO - Started process (PID=6686) to work on /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:20:48,469] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/slack.py for tasks to queue
+[2020-06-24 06:20:48,469] {logging_mixin.py:112} INFO - [2020-06-24 06:20:48,469] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:20:48,531] {logging_mixin.py:112} INFO - [2020-06-24 06:20:48,530] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-24 06:20:48,533] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/airflow/operators/http_operator.py:73: PendingDeprecationWarning: Invalid arguments were passed to SlackWebhookOperator (task_id: slack_msg). Support for passing such arguments will be dropped in Airflow 2.0. Invalid arguments were:
+*args: ()
+**kwargs: {'text': 'hi ani'}
+  super(SimpleHttpOperator, self).__init__(*args, **kwargs)
+[2020-06-24 06:20:48,547] {scheduler_job.py:1574} INFO - DAG(s) ['slack_example'] retrieved from /home/ec2-user/airflow/dags/slack.py
+[2020-06-24 06:20:48,563] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/slack.py took 0.098 seconds

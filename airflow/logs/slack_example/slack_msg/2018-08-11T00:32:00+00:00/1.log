@@ -1,0 +1,33 @@
+[2020-06-18 12:55:47,894] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slack_example.slack_msg 2018-08-11T00:32:00+00:00 [queued]>
+[2020-06-18 12:55:47,902] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slack_example.slack_msg 2018-08-11T00:32:00+00:00 [queued]>
+[2020-06-18 12:55:47,902] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-18 12:55:47,902] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-18 12:55:47,902] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-18 12:55:47,911] {taskinstance.py:900} INFO - Executing <Task(SlackWebhookOperator): slack_msg> on 2018-08-11T00:32:00+00:00
+[2020-06-18 12:55:47,913] {standard_task_runner.py:53} INFO - Started process 7016 to run task
+[2020-06-18 12:55:47,971] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: slack_example.slack_msg 2018-08-11T00:32:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-18 12:55:47,993] {logging_mixin.py:112} INFO - [2020-06-18 12:55:47,992] {base_hook.py:87} INFO - Using connection to: id: anitha_slack. Host: https://hooks.slack.com/services, Port: None, Schema: None, Login: None, Password: XXXXXXXX, extra: None
+[2020-06-18 12:55:47,994] {logging_mixin.py:112} INFO - [2020-06-18 12:55:47,994] {http_hook.py:136} INFO - Sending 'POST' to url: https://hooks.slack.com/services/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
+[2020-06-18 12:55:48,003] {logging_mixin.py:112} WARNING - /usr/lib/python2.7/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-06-18 12:55:48,015] {logging_mixin.py:112} INFO - [2020-06-18 12:55:48,015] {http_hook.py:150} ERROR - HTTP error: Bad Request
+[2020-06-18 12:55:48,016] {logging_mixin.py:112} INFO - [2020-06-18 12:55:48,016] {http_hook.py:151} ERROR - no_text
+[2020-06-18 12:55:48,019] {taskinstance.py:1145} ERROR - 400:Bad Request
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/operators/slack_webhook_operator.py", line 113, in execute
+    self.hook.execute()
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/hooks/slack_webhook_hook.py", line 152, in execute
+    extra_options={'proxies': proxies})
+  File "/usr/lib/python2.7/site-packages/airflow/hooks/http_hook.py", line 137, in run
+    return self.run_and_check(session, prepped_request, extra_options)
+  File "/usr/lib/python2.7/site-packages/airflow/hooks/http_hook.py", line 181, in run_and_check
+    self.check_response(response)
+  File "/usr/lib/python2.7/site-packages/airflow/hooks/http_hook.py", line 152, in check_response
+    raise AirflowException(str(response.status_code) + ":" + response.reason)
+AirflowException: 400:Bad Request
+[2020-06-18 12:55:48,020] {taskinstance.py:1202} INFO - Marking task as FAILED.dag_id=slack_example, task_id=slack_msg, execution_date=20180811T003200, start_date=20200618T125547, end_date=20200618T125548
+[2020-06-18 12:55:57,887] {logging_mixin.py:112} INFO - [2020-06-18 12:55:57,886] {local_task_job.py:103} INFO - Task exited with return code 1

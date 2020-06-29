@@ -1,0 +1,13 @@
+[2020-06-17 10:49:19,245] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: email_example.hello_task 2020-06-17T10:43:00+00:00 [queued]>
+[2020-06-17 10:49:19,255] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: email_example.hello_task 2020-06-17T10:43:00+00:00 [queued]>
+[2020-06-17 10:49:19,255] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 10:49:19,255] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-17 10:49:19,255] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 10:49:19,264] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): hello_task> on 2020-06-17T10:43:00+00:00
+[2020-06-17 10:49:19,265] {standard_task_runner.py:53} INFO - Started process 3483 to run task
+[2020-06-17 10:49:19,321] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: email_example.hello_task 2020-06-17T10:43:00+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-17 10:49:19,334] {python_operator.py:114} INFO - Done. Returned value was: Hello world!
+[2020-06-17 10:49:19,345] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=email_example, task_id=hello_task, execution_date=20200617T104300, start_date=20200617T104919, end_date=20200617T104919
+[2020-06-17 10:49:29,239] {logging_mixin.py:112} INFO - [2020-06-17 10:49:29,239] {local_task_job.py:103} INFO - Task exited with return code 0

@@ -1,0 +1,240 @@
+[2020-06-24 05:48:29,166] {scheduler_job.py:154} INFO - Started process (PID=5005) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:48:29,170] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:48:29,171] {logging_mixin.py:112} INFO - [2020-06-24 05:48:29,171] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:48:29,175] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:48:29,203] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:48:29,239] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-10 00:00:00+00:00: scheduled__2019-01-10T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:48:29,241] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-09 00:00:00+00:00: scheduled__2019-01-09T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:48:29,247] {logging_mixin.py:112} INFO - [2020-06-24 05:48:29,247] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-09 00:00:00+00:00: scheduled__2019-01-09T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:48:29,253] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-10 00:00:00+00:00: scheduled__2019-01-10T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:48:29,263] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:48:29,266] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-10 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:48:29,279] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.113 seconds
+[2020-06-24 05:50:17,487] {scheduler_job.py:154} INFO - Started process (PID=5172) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:50:17,492] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:50:17,492] {logging_mixin.py:112} INFO - [2020-06-24 05:50:17,492] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:50:17,496] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:50:17,523] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:50:17,553] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-11 00:00:00+00:00: scheduled__2019-01-11T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:17,555] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-10 00:00:00+00:00: scheduled__2019-01-10T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:17,561] {logging_mixin.py:112} INFO - [2020-06-24 05:50:17,561] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-10 00:00:00+00:00: scheduled__2019-01-10T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:50:17,567] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-11 00:00:00+00:00: scheduled__2019-01-11T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:50:17,577] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:50:17,581] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-11 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:50:17,589] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.103 seconds
+[2020-06-24 05:51:53,970] {scheduler_job.py:154} INFO - Started process (PID=5234) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:51:53,974] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:51:53,974] {logging_mixin.py:112} INFO - [2020-06-24 05:51:53,974] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:51:53,978] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:51:54,004] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:51:54,030] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-12 00:00:00+00:00: scheduled__2019-01-12T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:51:54,033] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-11 00:00:00+00:00: scheduled__2019-01-11T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:51:54,039] {logging_mixin.py:112} INFO - [2020-06-24 05:51:54,039] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-11 00:00:00+00:00: scheduled__2019-01-11T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:51:54,044] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-12 00:00:00+00:00: scheduled__2019-01-12T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:51:54,053] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:51:54,057] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-12 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:51:54,066] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.096 seconds
+[2020-06-24 05:53:30,433] {scheduler_job.py:154} INFO - Started process (PID=5297) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:53:30,437] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:53:30,438] {logging_mixin.py:112} INFO - [2020-06-24 05:53:30,437] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:53:30,442] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:53:30,466] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:53:30,492] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-13 00:00:00+00:00: scheduled__2019-01-13T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:53:30,495] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-12 00:00:00+00:00: scheduled__2019-01-12T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:53:30,500] {logging_mixin.py:112} INFO - [2020-06-24 05:53:30,500] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-12 00:00:00+00:00: scheduled__2019-01-12T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:53:30,505] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-13 00:00:00+00:00: scheduled__2019-01-13T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:53:30,514] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:53:30,518] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-13 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:53:30,527] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.094 seconds
+[2020-06-24 05:55:06,913] {scheduler_job.py:154} INFO - Started process (PID=5381) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:55:06,918] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:55:06,919] {logging_mixin.py:112} INFO - [2020-06-24 05:55:06,919] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:55:06,923] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:55:06,947] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:55:06,973] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-14 00:00:00+00:00: scheduled__2019-01-14T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:55:06,976] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-13 00:00:00+00:00: scheduled__2019-01-13T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:55:06,982] {logging_mixin.py:112} INFO - [2020-06-24 05:55:06,981] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-13 00:00:00+00:00: scheduled__2019-01-13T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:55:06,987] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-14 00:00:00+00:00: scheduled__2019-01-14T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:55:06,997] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:55:07,000] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-14 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:55:07,010] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.097 seconds
+[2020-06-24 05:56:43,403] {scheduler_job.py:154} INFO - Started process (PID=5513) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:56:43,407] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:56:43,408] {logging_mixin.py:112} INFO - [2020-06-24 05:56:43,407] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:56:43,412] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:56:43,436] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:56:43,464] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-15 00:00:00+00:00: scheduled__2019-01-15T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:56:43,466] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-14 00:00:00+00:00: scheduled__2019-01-14T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:56:43,472] {logging_mixin.py:112} INFO - [2020-06-24 05:56:43,472] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-14 00:00:00+00:00: scheduled__2019-01-14T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:56:43,478] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-15 00:00:00+00:00: scheduled__2019-01-15T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:56:43,487] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:56:43,491] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-15 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:56:43,501] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.098 seconds
+[2020-06-24 05:58:19,876] {scheduler_job.py:154} INFO - Started process (PID=5587) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:58:19,879] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 05:58:19,880] {logging_mixin.py:112} INFO - [2020-06-24 05:58:19,880] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:58:19,885] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 05:58:19,908] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 05:58:19,939] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-16 00:00:00+00:00: scheduled__2019-01-16T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:58:19,941] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-15 00:00:00+00:00: scheduled__2019-01-15T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:58:19,947] {logging_mixin.py:112} INFO - [2020-06-24 05:58:19,947] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-15 00:00:00+00:00: scheduled__2019-01-15T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 05:58:19,952] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-16 00:00:00+00:00: scheduled__2019-01-16T00:00:00+00:00, externally triggered: False>
+[2020-06-24 05:58:19,962] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 05:58:19,966] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-16 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 05:58:19,974] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.099 seconds
+[2020-06-24 06:00:17,672] {scheduler_job.py:154} INFO - Started process (PID=5725) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:00:17,679] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:00:17,680] {logging_mixin.py:112} INFO - [2020-06-24 06:00:17,680] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:00:17,684] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:00:17,709] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:00:17,736] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-17 00:00:00+00:00: scheduled__2019-01-17T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:00:17,738] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-16 00:00:00+00:00: scheduled__2019-01-16T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:00:17,744] {logging_mixin.py:112} INFO - [2020-06-24 06:00:17,744] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-16 00:00:00+00:00: scheduled__2019-01-16T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:00:17,750] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-17 00:00:00+00:00: scheduled__2019-01-17T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:00:17,759] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:00:17,763] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-17 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:00:17,772] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.100 seconds
+[2020-06-24 06:02:04,359] {scheduler_job.py:154} INFO - Started process (PID=5819) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:02:04,363] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:02:04,363] {logging_mixin.py:112} INFO - [2020-06-24 06:02:04,363] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:02:04,368] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:02:04,392] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:02:04,418] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-18 00:00:00+00:00: scheduled__2019-01-18T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:02:04,420] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-17 00:00:00+00:00: scheduled__2019-01-17T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:02:04,426] {logging_mixin.py:112} INFO - [2020-06-24 06:02:04,426] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-17 00:00:00+00:00: scheduled__2019-01-17T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:02:04,433] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-18 00:00:00+00:00: scheduled__2019-01-18T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:02:04,442] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:02:04,445] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-18 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:02:04,455] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.096 seconds
+[2020-06-24 06:03:51,150] {scheduler_job.py:154} INFO - Started process (PID=5899) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:03:51,158] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:03:51,158] {logging_mixin.py:112} INFO - [2020-06-24 06:03:51,158] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:03:51,167] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:03:51,232] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:03:51,291] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-19 00:00:00+00:00: scheduled__2019-01-19T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:03:51,298] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-18 00:00:00+00:00: scheduled__2019-01-18T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:03:51,312] {logging_mixin.py:112} INFO - [2020-06-24 06:03:51,312] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-18 00:00:00+00:00: scheduled__2019-01-18T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:03:51,322] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-19 00:00:00+00:00: scheduled__2019-01-19T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:03:51,338] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:03:51,345] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-19 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:03:51,359] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.209 seconds
+[2020-06-24 06:05:37,816] {scheduler_job.py:154} INFO - Started process (PID=5981) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:05:37,820] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:05:37,820] {logging_mixin.py:112} INFO - [2020-06-24 06:05:37,820] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:05:37,825] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:05:37,848] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:05:37,875] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-20 00:00:00+00:00: scheduled__2019-01-20T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:05:37,878] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-19 00:00:00+00:00: scheduled__2019-01-19T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:05:37,884] {logging_mixin.py:112} INFO - [2020-06-24 06:05:37,884] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-19 00:00:00+00:00: scheduled__2019-01-19T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:05:37,888] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-20 00:00:00+00:00: scheduled__2019-01-20T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:05:37,898] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:05:37,902] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-20 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:05:37,911] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.095 seconds
+[2020-06-24 06:07:24,545] {scheduler_job.py:154} INFO - Started process (PID=6062) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:07:24,549] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:07:24,549] {logging_mixin.py:112} INFO - [2020-06-24 06:07:24,549] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:07:24,554] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:07:24,577] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:07:24,604] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-21 00:00:00+00:00: scheduled__2019-01-21T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:07:24,606] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-20 00:00:00+00:00: scheduled__2019-01-20T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:07:24,612] {logging_mixin.py:112} INFO - [2020-06-24 06:07:24,612] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-20 00:00:00+00:00: scheduled__2019-01-20T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:07:24,617] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-21 00:00:00+00:00: scheduled__2019-01-21T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:07:24,626] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:07:24,630] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-21 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:07:24,639] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.094 seconds
+[2020-06-24 06:09:11,231] {scheduler_job.py:154} INFO - Started process (PID=6144) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:09:11,235] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:09:11,235] {logging_mixin.py:112} INFO - [2020-06-24 06:09:11,235] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:09:11,240] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:09:11,264] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:09:11,293] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-22 00:00:00+00:00: scheduled__2019-01-22T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:09:11,295] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-21 00:00:00+00:00: scheduled__2019-01-21T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:09:11,301] {logging_mixin.py:112} INFO - [2020-06-24 06:09:11,301] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-21 00:00:00+00:00: scheduled__2019-01-21T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:09:11,307] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-22 00:00:00+00:00: scheduled__2019-01-22T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:09:11,316] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:09:11,320] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-22 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:09:11,329] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.099 seconds
+[2020-06-24 06:10:57,912] {scheduler_job.py:154} INFO - Started process (PID=6230) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:10:57,916] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:10:57,916] {logging_mixin.py:112} INFO - [2020-06-24 06:10:57,916] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:10:57,921] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:10:57,944] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:10:57,969] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-23 00:00:00+00:00: scheduled__2019-01-23T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:10:57,972] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-22 00:00:00+00:00: scheduled__2019-01-22T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:10:57,978] {logging_mixin.py:112} INFO - [2020-06-24 06:10:57,977] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-22 00:00:00+00:00: scheduled__2019-01-22T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:10:57,982] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-23 00:00:00+00:00: scheduled__2019-01-23T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:10:57,992] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:10:57,996] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-23 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:10:58,006] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.094 seconds
+[2020-06-24 06:12:44,597] {scheduler_job.py:154} INFO - Started process (PID=6311) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:12:44,601] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:12:44,601] {logging_mixin.py:112} INFO - [2020-06-24 06:12:44,601] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:12:44,605] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:12:44,628] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:12:44,656] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-24 00:00:00+00:00: scheduled__2019-01-24T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:12:44,658] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-23 00:00:00+00:00: scheduled__2019-01-23T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:12:44,664] {logging_mixin.py:112} INFO - [2020-06-24 06:12:44,664] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-23 00:00:00+00:00: scheduled__2019-01-23T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:12:44,669] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-24 00:00:00+00:00: scheduled__2019-01-24T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:12:44,679] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:12:44,682] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-24 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:12:44,691] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.094 seconds
+[2020-06-24 06:14:31,903] {scheduler_job.py:154} INFO - Started process (PID=6394) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:14:31,907] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:14:31,907] {logging_mixin.py:112} INFO - [2020-06-24 06:14:31,907] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:14:31,912] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:14:31,935] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:14:31,962] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-25 00:00:00+00:00: scheduled__2019-01-25T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:14:31,964] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-24 00:00:00+00:00: scheduled__2019-01-24T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:14:31,970] {logging_mixin.py:112} INFO - [2020-06-24 06:14:31,970] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-24 00:00:00+00:00: scheduled__2019-01-24T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:14:31,975] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-25 00:00:00+00:00: scheduled__2019-01-25T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:14:31,985] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:14:31,988] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-25 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:14:31,997] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.095 seconds
+[2020-06-24 06:16:18,630] {scheduler_job.py:154} INFO - Started process (PID=6473) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:16:18,634] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:16:18,635] {logging_mixin.py:112} INFO - [2020-06-24 06:16:18,635] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:16:18,640] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:16:18,663] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:16:18,689] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-26 00:00:00+00:00: scheduled__2019-01-26T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:16:18,691] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-25 00:00:00+00:00: scheduled__2019-01-25T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:16:18,697] {logging_mixin.py:112} INFO - [2020-06-24 06:16:18,697] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-25 00:00:00+00:00: scheduled__2019-01-25T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:16:18,701] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-26 00:00:00+00:00: scheduled__2019-01-26T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:16:18,711] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:16:18,715] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-26 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:16:18,724] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.093 seconds
+[2020-06-24 06:18:05,331] {scheduler_job.py:154} INFO - Started process (PID=6556) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:18:05,335] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:18:05,335] {logging_mixin.py:112} INFO - [2020-06-24 06:18:05,335] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:18:05,339] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:18:05,364] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:18:05,391] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-27 00:00:00+00:00: scheduled__2019-01-27T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:18:05,393] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-26 00:00:00+00:00: scheduled__2019-01-26T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:18:05,399] {logging_mixin.py:112} INFO - [2020-06-24 06:18:05,399] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-26 00:00:00+00:00: scheduled__2019-01-26T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:18:05,403] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-27 00:00:00+00:00: scheduled__2019-01-27T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:18:05,412] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:18:05,416] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-27 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:18:05,426] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.096 seconds
+[2020-06-24 06:19:52,036] {scheduler_job.py:154} INFO - Started process (PID=6636) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:19:52,040] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:19:52,040] {logging_mixin.py:112} INFO - [2020-06-24 06:19:52,040] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:19:52,044] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:19:52,068] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:19:52,096] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-28 00:00:00+00:00: scheduled__2019-01-28T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:19:52,099] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-27 00:00:00+00:00: scheduled__2019-01-27T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:19:52,105] {logging_mixin.py:112} INFO - [2020-06-24 06:19:52,104] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-27 00:00:00+00:00: scheduled__2019-01-27T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:19:52,109] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-28 00:00:00+00:00: scheduled__2019-01-28T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:19:52,119] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:19:52,122] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-28 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:19:52,133] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.097 seconds
+[2020-06-24 06:21:38,733] {scheduler_job.py:154} INFO - Started process (PID=6721) to work on /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:21:38,737] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/dagindag.py for tasks to queue
+[2020-06-24 06:21:38,737] {logging_mixin.py:112} INFO - [2020-06-24 06:21:38,737] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:21:38,742] {scheduler_job.py:1574} INFO - DAG(s) ['dagindag'] retrieved from /home/ec2-user/airflow/dags/dagindag.py
+[2020-06-24 06:21:38,766] {scheduler_job.py:1284} INFO - Processing dagindag
+[2020-06-24 06:21:38,793] {scheduler_job.py:1294} INFO - Created <DagRun dagindag @ 2019-01-29 00:00:00+00:00: scheduled__2019-01-29T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:21:38,796] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-28 00:00:00+00:00: scheduled__2019-01-28T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:21:38,802] {logging_mixin.py:112} INFO - [2020-06-24 06:21:38,802] {dagrun.py:309} INFO - Marking run <DagRun dagindag @ 2019-01-28 00:00:00+00:00: scheduled__2019-01-28T00:00:00+00:00, externally triggered: False> failed
+[2020-06-24 06:21:38,807] {scheduler_job.py:759} INFO - Examining DAG run <DagRun dagindag @ 2019-01-29 00:00:00+00:00: scheduled__2019-01-29T00:00:00+00:00, externally triggered: False>
+[2020-06-24 06:21:38,817] {scheduler_job.py:447} INFO - Skipping SLA check for <DAG: dagindag> because no tasks in DAG have SLAs
+[2020-06-24 06:21:38,820] {scheduler_job.py:1640} INFO - Creating / updating <TaskInstance: dagindag.testslackbash 2019-01-29 00:00:00+00:00 [scheduled]> in ORM
+[2020-06-24 06:21:38,830] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/dagindag.py took 0.096 seconds

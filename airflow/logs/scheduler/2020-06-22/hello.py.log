@@ -1,0 +1,725 @@
+[2020-06-22 08:44:33,452] {scheduler_job.py:154} INFO - Started process (PID=4414) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:44:33,456] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:44:33,456] {logging_mixin.py:112} INFO - [2020-06-22 08:44:33,456] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:44:33,477] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:44:33,494] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 08:46:04,910] {scheduler_job.py:154} INFO - Started process (PID=4477) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:46:04,914] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:46:04,915] {logging_mixin.py:112} INFO - [2020-06-22 08:46:04,915] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:46:04,935] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:46:04,954] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 08:47:14,994] {scheduler_job.py:154} INFO - Started process (PID=4523) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:47:14,997] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:47:14,998] {logging_mixin.py:112} INFO - [2020-06-22 08:47:14,998] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:47:15,018] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:47:15,042] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.048 seconds
+[2020-06-22 08:48:25,069] {scheduler_job.py:154} INFO - Started process (PID=4569) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:48:25,072] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:48:25,073] {logging_mixin.py:112} INFO - [2020-06-22 08:48:25,073] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:48:25,093] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:48:25,111] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 08:49:35,150] {scheduler_job.py:154} INFO - Started process (PID=4618) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:49:35,154] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:49:35,154] {logging_mixin.py:112} INFO - [2020-06-22 08:49:35,154] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:49:35,175] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:49:35,194] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 08:50:45,247] {scheduler_job.py:154} INFO - Started process (PID=4672) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:50:45,251] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:50:45,251] {logging_mixin.py:112} INFO - [2020-06-22 08:50:45,251] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:50:45,269] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:50:45,287] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 08:52:16,683] {scheduler_job.py:154} INFO - Started process (PID=4726) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:52:16,686] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:52:16,687] {logging_mixin.py:112} INFO - [2020-06-22 08:52:16,687] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:52:16,705] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:52:16,723] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 08:53:26,770] {scheduler_job.py:154} INFO - Started process (PID=4766) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:53:26,774] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 08:53:26,775] {logging_mixin.py:112} INFO - [2020-06-22 08:53:26,775] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:53:26,793] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 08:53:26,811] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:01:56,374] {scheduler_job.py:154} INFO - Started process (PID=4915) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:01:56,378] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:01:56,379] {logging_mixin.py:112} INFO - [2020-06-22 09:01:56,378] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:01:56,399] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:01:56,418] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 09:03:08,456] {scheduler_job.py:154} INFO - Started process (PID=5022) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:03:08,465] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:03:08,466] {logging_mixin.py:112} INFO - [2020-06-22 09:03:08,466] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:03:08,486] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:03:08,503] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.047 seconds
+[2020-06-22 09:04:20,539] {scheduler_job.py:154} INFO - Started process (PID=5069) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:04:20,543] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:04:20,543] {logging_mixin.py:112} INFO - [2020-06-22 09:04:20,543] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:04:20,564] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:04:20,582] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 09:05:32,623] {scheduler_job.py:154} INFO - Started process (PID=5112) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:05:32,626] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:05:32,627] {logging_mixin.py:112} INFO - [2020-06-22 09:05:32,626] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:05:32,647] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:05:32,664] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:06:54,944] {scheduler_job.py:154} INFO - Started process (PID=5162) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:06:54,968] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:06:54,969] {logging_mixin.py:112} INFO - [2020-06-22 09:06:54,969] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:06:54,990] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:06:55,007] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.063 seconds
+[2020-06-22 09:08:17,219] {scheduler_job.py:154} INFO - Started process (PID=5234) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:08:17,223] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:08:17,223] {logging_mixin.py:112} INFO - [2020-06-22 09:08:17,223] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:08:17,241] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:08:17,259] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:09:29,300] {scheduler_job.py:154} INFO - Started process (PID=5301) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:09:29,304] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:09:29,304] {logging_mixin.py:112} INFO - [2020-06-22 09:09:29,304] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:09:29,322] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:09:29,340] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:10:51,598] {scheduler_job.py:154} INFO - Started process (PID=5366) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:10:51,602] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:10:51,603] {logging_mixin.py:112} INFO - [2020-06-22 09:10:51,602] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:10:51,621] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:10:51,639] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:12:03,686] {scheduler_job.py:154} INFO - Started process (PID=5414) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:12:03,690] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:12:03,690] {logging_mixin.py:112} INFO - [2020-06-22 09:12:03,690] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:12:03,709] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:12:03,726] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:13:15,770] {scheduler_job.py:154} INFO - Started process (PID=5463) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:13:15,781] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:13:15,782] {logging_mixin.py:112} INFO - [2020-06-22 09:13:15,782] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:13:15,820] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:13:15,851] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.081 seconds
+[2020-06-22 09:14:27,847] {scheduler_job.py:154} INFO - Started process (PID=5512) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:14:27,851] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:14:27,851] {logging_mixin.py:112} INFO - [2020-06-22 09:14:27,851] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:14:27,869] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:14:27,887] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:15:39,932] {scheduler_job.py:154} INFO - Started process (PID=5554) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:15:39,936] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:15:39,936] {logging_mixin.py:112} INFO - [2020-06-22 09:15:39,936] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:15:39,955] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:15:39,973] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:16:52,015] {scheduler_job.py:154} INFO - Started process (PID=5596) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:16:52,020] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:16:52,020] {logging_mixin.py:112} INFO - [2020-06-22 09:16:52,020] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:16:52,038] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:16:52,056] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:18:04,101] {scheduler_job.py:154} INFO - Started process (PID=5639) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:18:04,105] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:18:04,105] {logging_mixin.py:112} INFO - [2020-06-22 09:18:04,105] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:18:04,123] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:18:04,142] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:19:16,180] {scheduler_job.py:154} INFO - Started process (PID=5680) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:19:16,184] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:19:16,184] {logging_mixin.py:112} INFO - [2020-06-22 09:19:16,184] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:19:16,202] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:19:16,220] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:20:28,264] {scheduler_job.py:154} INFO - Started process (PID=5728) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:20:28,268] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:20:28,269] {logging_mixin.py:112} INFO - [2020-06-22 09:20:28,269] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:20:28,287] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:20:28,307] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:21:40,355] {scheduler_job.py:154} INFO - Started process (PID=5769) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:21:40,361] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:21:40,362] {logging_mixin.py:112} INFO - [2020-06-22 09:21:40,362] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:21:40,380] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:21:40,398] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 09:22:52,432] {scheduler_job.py:154} INFO - Started process (PID=5810) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:22:52,437] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:22:52,437] {logging_mixin.py:112} INFO - [2020-06-22 09:22:52,437] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:22:52,454] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:22:52,472] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:24:04,524] {scheduler_job.py:154} INFO - Started process (PID=5875) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:24:04,530] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:24:04,530] {logging_mixin.py:112} INFO - [2020-06-22 09:24:04,530] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:24:04,549] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:24:04,567] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:25:16,608] {scheduler_job.py:154} INFO - Started process (PID=5922) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:25:16,613] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:25:16,613] {logging_mixin.py:112} INFO - [2020-06-22 09:25:16,613] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:25:16,631] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:25:16,649] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:26:28,685] {scheduler_job.py:154} INFO - Started process (PID=5969) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:26:28,688] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:26:28,689] {logging_mixin.py:112} INFO - [2020-06-22 09:26:28,689] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:26:28,707] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:26:28,725] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:27:40,770] {scheduler_job.py:154} INFO - Started process (PID=6014) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:27:40,774] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:27:40,775] {logging_mixin.py:112} INFO - [2020-06-22 09:27:40,775] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:27:40,792] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:27:40,813] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 09:28:52,864] {scheduler_job.py:154} INFO - Started process (PID=6116) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:28:52,871] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:28:52,872] {logging_mixin.py:112} INFO - [2020-06-22 09:28:52,871] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:28:52,889] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:28:52,907] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 09:30:04,936] {scheduler_job.py:154} INFO - Started process (PID=6164) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:30:04,940] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:30:04,940] {logging_mixin.py:112} INFO - [2020-06-22 09:30:04,940] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:30:04,958] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:30:04,976] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:31:17,020] {scheduler_job.py:154} INFO - Started process (PID=6205) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:31:17,025] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:31:17,026] {logging_mixin.py:112} INFO - [2020-06-22 09:31:17,026] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:31:17,044] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:31:17,062] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:32:29,102] {scheduler_job.py:154} INFO - Started process (PID=6287) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:32:29,106] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:32:29,106] {logging_mixin.py:112} INFO - [2020-06-22 09:32:29,106] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:32:29,124] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:32:29,142] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:33:41,183] {scheduler_job.py:154} INFO - Started process (PID=6352) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:33:41,187] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:33:41,187] {logging_mixin.py:112} INFO - [2020-06-22 09:33:41,187] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:33:41,205] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:33:41,223] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:34:53,265] {scheduler_job.py:154} INFO - Started process (PID=6397) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:34:53,268] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:34:53,269] {logging_mixin.py:112} INFO - [2020-06-22 09:34:53,269] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:34:53,287] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:34:53,305] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:36:05,360] {scheduler_job.py:154} INFO - Started process (PID=6464) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:36:05,373] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:36:05,373] {logging_mixin.py:112} INFO - [2020-06-22 09:36:05,373] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:36:05,432] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:36:05,471] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.111 seconds
+[2020-06-22 09:37:27,628] {scheduler_job.py:154} INFO - Started process (PID=6518) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:37:27,635] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:37:27,636] {logging_mixin.py:112} INFO - [2020-06-22 09:37:27,636] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:37:27,654] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:37:27,672] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 09:38:39,718] {scheduler_job.py:154} INFO - Started process (PID=6566) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:38:39,723] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:38:39,723] {logging_mixin.py:112} INFO - [2020-06-22 09:38:39,723] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:38:39,741] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:38:39,759] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:39:51,803] {scheduler_job.py:154} INFO - Started process (PID=6614) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:39:51,806] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:39:51,807] {logging_mixin.py:112} INFO - [2020-06-22 09:39:51,807] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:39:51,825] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:39:51,843] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:41:03,886] {scheduler_job.py:154} INFO - Started process (PID=6667) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:41:03,892] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:41:03,892] {logging_mixin.py:112} INFO - [2020-06-22 09:41:03,892] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:41:03,910] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:41:03,928] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:42:15,969] {scheduler_job.py:154} INFO - Started process (PID=6714) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:42:15,991] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:42:15,992] {logging_mixin.py:112} INFO - [2020-06-22 09:42:15,992] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:42:16,010] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:42:16,028] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.059 seconds
+[2020-06-22 09:43:28,052] {scheduler_job.py:154} INFO - Started process (PID=6764) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:43:28,056] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:43:28,057] {logging_mixin.py:112} INFO - [2020-06-22 09:43:28,056] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:43:28,075] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:43:28,094] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:44:40,135] {scheduler_job.py:154} INFO - Started process (PID=6811) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:44:40,142] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:44:40,143] {logging_mixin.py:112} INFO - [2020-06-22 09:44:40,143] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:44:40,161] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:44:40,181] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.046 seconds
+[2020-06-22 09:45:52,217] {scheduler_job.py:154} INFO - Started process (PID=6859) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:45:52,224] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:45:52,225] {logging_mixin.py:112} INFO - [2020-06-22 09:45:52,224] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:45:52,243] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:45:52,262] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.045 seconds
+[2020-06-22 09:47:04,301] {scheduler_job.py:154} INFO - Started process (PID=6909) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:47:04,305] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:47:04,305] {logging_mixin.py:112} INFO - [2020-06-22 09:47:04,305] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:47:04,323] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:47:04,341] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:48:16,386] {scheduler_job.py:154} INFO - Started process (PID=6956) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:48:16,390] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:48:16,390] {logging_mixin.py:112} INFO - [2020-06-22 09:48:16,390] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:48:16,409] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:48:16,427] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 09:49:28,467] {scheduler_job.py:154} INFO - Started process (PID=7003) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:49:28,471] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:49:28,471] {logging_mixin.py:112} INFO - [2020-06-22 09:49:28,471] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:49:28,489] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:49:28,507] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 09:50:40,560] {scheduler_job.py:154} INFO - Started process (PID=7057) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:50:40,564] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:50:40,565] {logging_mixin.py:112} INFO - [2020-06-22 09:50:40,565] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:50:40,583] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:50:40,603] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:51:52,634] {scheduler_job.py:154} INFO - Started process (PID=7107) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:51:52,638] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:51:52,638] {logging_mixin.py:112} INFO - [2020-06-22 09:51:52,638] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:51:52,657] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:51:52,676] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 09:53:04,717] {scheduler_job.py:154} INFO - Started process (PID=7154) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:53:04,721] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 09:53:04,721] {logging_mixin.py:112} INFO - [2020-06-22 09:53:04,721] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:53:04,739] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 09:53:04,757] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:19:51,471] {scheduler_job.py:154} INFO - Started process (PID=7542) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:19:51,475] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:19:51,476] {logging_mixin.py:112} INFO - [2020-06-22 10:19:51,475] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:19:51,496] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:19:51,515] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 10:21:13,779] {scheduler_job.py:154} INFO - Started process (PID=7646) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:21:13,784] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:21:13,784] {logging_mixin.py:112} INFO - [2020-06-22 10:21:13,784] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:21:13,804] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:21:13,822] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 10:22:25,862] {scheduler_job.py:154} INFO - Started process (PID=7693) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:22:25,866] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:22:25,867] {logging_mixin.py:112} INFO - [2020-06-22 10:22:25,866] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:22:25,888] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:22:25,909] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.047 seconds
+[2020-06-22 10:23:37,945] {scheduler_job.py:154} INFO - Started process (PID=7744) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:23:37,949] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:23:37,949] {logging_mixin.py:112} INFO - [2020-06-22 10:23:37,949] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:23:37,970] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:23:37,988] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 10:24:50,028] {scheduler_job.py:154} INFO - Started process (PID=7791) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:24:50,036] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:24:50,036] {logging_mixin.py:112} INFO - [2020-06-22 10:24:50,036] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:24:50,054] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:24:50,071] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 10:26:02,111] {scheduler_job.py:154} INFO - Started process (PID=7838) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:26:02,115] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:26:02,115] {logging_mixin.py:112} INFO - [2020-06-22 10:26:02,115] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:26:02,133] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:26:02,152] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:27:14,194] {scheduler_job.py:154} INFO - Started process (PID=7885) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:27:14,198] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:27:14,198] {logging_mixin.py:112} INFO - [2020-06-22 10:27:14,198] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:27:14,217] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:27:14,235] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:28:26,277] {scheduler_job.py:154} INFO - Started process (PID=7935) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:28:26,281] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:28:26,282] {logging_mixin.py:112} INFO - [2020-06-22 10:28:26,282] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:28:26,300] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:28:26,318] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 10:29:38,360] {scheduler_job.py:154} INFO - Started process (PID=7983) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:29:38,364] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:29:38,364] {logging_mixin.py:112} INFO - [2020-06-22 10:29:38,364] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:29:38,382] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:29:38,400] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:30:50,443] {scheduler_job.py:154} INFO - Started process (PID=8036) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:30:50,446] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:30:50,447] {logging_mixin.py:112} INFO - [2020-06-22 10:30:50,446] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:30:50,464] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:30:50,482] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 10:32:02,527] {scheduler_job.py:154} INFO - Started process (PID=8086) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:32:02,530] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:32:02,531] {logging_mixin.py:112} INFO - [2020-06-22 10:32:02,531] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:32:02,549] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:32:02,567] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 10:33:14,609] {scheduler_job.py:154} INFO - Started process (PID=8133) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:33:14,614] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:33:14,615] {logging_mixin.py:112} INFO - [2020-06-22 10:33:14,615] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:33:14,633] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:33:14,651] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 10:34:26,692] {scheduler_job.py:154} INFO - Started process (PID=8181) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:34:26,695] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:34:26,696] {logging_mixin.py:112} INFO - [2020-06-22 10:34:26,696] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:34:26,714] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:34:26,732] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 10:35:38,772] {scheduler_job.py:154} INFO - Started process (PID=8225) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:35:38,776] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:35:38,776] {logging_mixin.py:112} INFO - [2020-06-22 10:35:38,776] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:35:38,795] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:35:38,812] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.039 seconds
+[2020-06-22 10:36:50,854] {scheduler_job.py:154} INFO - Started process (PID=8269) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:36:50,860] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:36:50,860] {logging_mixin.py:112} INFO - [2020-06-22 10:36:50,860] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:36:50,878] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:36:50,898] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 10:38:02,936] {scheduler_job.py:154} INFO - Started process (PID=8316) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:38:02,941] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:38:02,941] {logging_mixin.py:112} INFO - [2020-06-22 10:38:02,941] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:38:02,960] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:38:02,980] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 10:39:15,019] {scheduler_job.py:154} INFO - Started process (PID=8367) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:39:15,023] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:39:15,023] {logging_mixin.py:112} INFO - [2020-06-22 10:39:15,023] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:39:15,042] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:39:15,060] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:40:27,102] {scheduler_job.py:154} INFO - Started process (PID=8420) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:40:27,105] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:40:27,106] {logging_mixin.py:112} INFO - [2020-06-22 10:40:27,106] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:40:27,124] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:40:27,142] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 10:41:39,186] {scheduler_job.py:154} INFO - Started process (PID=8467) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:41:39,195] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:41:39,196] {logging_mixin.py:112} INFO - [2020-06-22 10:41:39,196] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:41:39,214] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:41:39,231] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.045 seconds
+[2020-06-22 10:42:51,275] {scheduler_job.py:154} INFO - Started process (PID=8517) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:42:51,279] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:42:51,280] {logging_mixin.py:112} INFO - [2020-06-22 10:42:51,280] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:42:51,298] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:42:51,316] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:44:03,358] {scheduler_job.py:154} INFO - Started process (PID=8564) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:44:03,362] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:44:03,362] {logging_mixin.py:112} INFO - [2020-06-22 10:44:03,362] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:44:03,380] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:44:03,400] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 10:45:15,441] {scheduler_job.py:154} INFO - Started process (PID=8673) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:45:15,445] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:45:15,446] {logging_mixin.py:112} INFO - [2020-06-22 10:45:15,446] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:45:15,464] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:45:15,483] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 10:46:27,523] {scheduler_job.py:154} INFO - Started process (PID=8765) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:46:27,528] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:46:27,528] {logging_mixin.py:112} INFO - [2020-06-22 10:46:27,528] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:46:27,547] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:46:27,570] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.046 seconds
+[2020-06-22 10:47:39,607] {scheduler_job.py:154} INFO - Started process (PID=8813) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:47:39,615] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:47:39,615] {logging_mixin.py:112} INFO - [2020-06-22 10:47:39,615] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:47:39,633] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:47:39,651] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 10:48:51,688] {scheduler_job.py:154} INFO - Started process (PID=8861) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:48:51,692] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:48:51,692] {logging_mixin.py:112} INFO - [2020-06-22 10:48:51,692] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:48:51,711] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:48:51,730] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 10:50:03,771] {scheduler_job.py:154} INFO - Started process (PID=8914) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:50:03,777] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:50:03,777] {logging_mixin.py:112} INFO - [2020-06-22 10:50:03,777] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:50:03,796] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:50:03,814] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 10:51:15,853] {scheduler_job.py:154} INFO - Started process (PID=8965) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:51:15,858] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:51:15,858] {logging_mixin.py:112} INFO - [2020-06-22 10:51:15,858] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:51:15,876] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:51:15,894] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:52:27,937] {scheduler_job.py:154} INFO - Started process (PID=9013) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:52:27,941] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:52:27,941] {logging_mixin.py:112} INFO - [2020-06-22 10:52:27,941] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:52:27,959] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:52:27,978] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:53:40,015] {scheduler_job.py:154} INFO - Started process (PID=9099) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:53:40,020] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:53:40,021] {logging_mixin.py:112} INFO - [2020-06-22 10:53:40,021] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:53:40,038] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:53:40,056] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 10:54:52,096] {scheduler_job.py:154} INFO - Started process (PID=9141) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:54:52,100] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:54:52,101] {logging_mixin.py:112} INFO - [2020-06-22 10:54:52,100] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:54:52,119] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:54:52,138] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 10:56:04,179] {scheduler_job.py:154} INFO - Started process (PID=9244) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:56:04,184] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:56:04,184] {logging_mixin.py:112} INFO - [2020-06-22 10:56:04,184] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:56:04,202] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:56:04,220] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 10:56:14,563] {scheduler_job.py:154} INFO - Started process (PID=9256) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:56:14,567] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:56:14,567] {logging_mixin.py:112} INFO - [2020-06-22 10:56:14,567] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:56:14,588] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:56:14,606] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 10:57:26,674] {scheduler_job.py:154} INFO - Started process (PID=9344) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:57:26,702] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:57:26,702] {logging_mixin.py:112} INFO - [2020-06-22 10:57:26,702] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:57:26,724] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:57:26,742] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.068 seconds
+[2020-06-22 10:57:26,855] {scheduler_job.py:154} INFO - Started process (PID=9345) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:57:26,858] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 10:57:26,859] {logging_mixin.py:112} INFO - [2020-06-22 10:57:26,859] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:57:26,879] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 10:57:26,897] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:02:43,388] {scheduler_job.py:154} INFO - Started process (PID=3540) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:02:43,394] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:02:43,394] {logging_mixin.py:112} INFO - [2020-06-22 11:02:43,394] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:02:43,415] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:02:43,433] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.046 seconds
+[2020-06-22 11:05:38,451] {scheduler_job.py:154} INFO - Started process (PID=3612) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:05:38,457] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:05:38,457] {logging_mixin.py:112} INFO - [2020-06-22 11:05:38,457] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:05:38,477] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:05:38,495] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 11:07:00,714] {scheduler_job.py:154} INFO - Started process (PID=3671) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:07:00,719] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:07:00,719] {logging_mixin.py:112} INFO - [2020-06-22 11:07:00,719] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:07:00,739] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:07:00,757] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:08:12,801] {scheduler_job.py:154} INFO - Started process (PID=3718) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:08:12,805] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:08:12,805] {logging_mixin.py:112} INFO - [2020-06-22 11:08:12,805] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:08:12,826] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:08:12,844] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:10:27,438] {scheduler_job.py:154} INFO - Started process (PID=3854) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:10:27,444] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:10:27,444] {logging_mixin.py:112} INFO - [2020-06-22 11:10:27,444] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:10:27,465] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:10:27,483] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.045 seconds
+[2020-06-22 11:11:49,725] {scheduler_job.py:154} INFO - Started process (PID=3913) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:11:49,730] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:11:49,730] {logging_mixin.py:112} INFO - [2020-06-22 11:11:49,730] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:11:49,750] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:11:49,768] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 11:13:01,812] {scheduler_job.py:154} INFO - Started process (PID=3960) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:13:01,816] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:13:01,817] {logging_mixin.py:112} INFO - [2020-06-22 11:13:01,817] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:13:01,838] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:13:01,855] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:14:13,891] {scheduler_job.py:154} INFO - Started process (PID=4013) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:14:13,895] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:14:13,895] {logging_mixin.py:112} INFO - [2020-06-22 11:14:13,895] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:14:13,916] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:14:13,934] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:15:25,975] {scheduler_job.py:154} INFO - Started process (PID=4060) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:15:25,984] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:15:25,984] {logging_mixin.py:112} INFO - [2020-06-22 11:15:25,984] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:15:26,001] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:15:26,019] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.044 seconds
+[2020-06-22 11:16:38,059] {scheduler_job.py:154} INFO - Started process (PID=4107) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:16:38,082] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:16:38,082] {logging_mixin.py:112} INFO - [2020-06-22 11:16:38,082] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:16:38,100] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:16:38,119] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.060 seconds
+[2020-06-22 11:17:50,142] {scheduler_job.py:154} INFO - Started process (PID=4157) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:17:50,146] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:17:50,146] {logging_mixin.py:112} INFO - [2020-06-22 11:17:50,146] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:17:50,164] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:17:50,185] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:19:02,230] {scheduler_job.py:154} INFO - Started process (PID=4204) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:19:02,241] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:19:02,242] {logging_mixin.py:112} INFO - [2020-06-22 11:19:02,242] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:19:02,260] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:19:02,278] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.048 seconds
+[2020-06-22 11:20:14,320] {scheduler_job.py:154} INFO - Started process (PID=4258) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:20:14,330] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:20:14,330] {logging_mixin.py:112} INFO - [2020-06-22 11:20:14,330] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:20:14,348] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:20:14,373] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.053 seconds
+[2020-06-22 11:21:26,413] {scheduler_job.py:154} INFO - Started process (PID=4348) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:21:26,421] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:21:26,422] {logging_mixin.py:112} INFO - [2020-06-22 11:21:26,421] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:21:26,460] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:21:26,492] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.079 seconds
+[2020-06-22 11:22:38,474] {scheduler_job.py:154} INFO - Started process (PID=4396) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:22:38,478] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:22:38,479] {logging_mixin.py:112} INFO - [2020-06-22 11:22:38,478] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:22:38,497] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:22:38,514] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 11:23:50,567] {scheduler_job.py:154} INFO - Started process (PID=4437) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:23:50,571] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:23:50,571] {logging_mixin.py:112} INFO - [2020-06-22 11:23:50,571] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:23:50,589] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:23:50,608] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 11:25:02,644] {scheduler_job.py:154} INFO - Started process (PID=4478) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:25:02,648] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:25:02,648] {logging_mixin.py:112} INFO - [2020-06-22 11:25:02,648] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:25:02,667] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:25:02,685] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:26:14,724] {scheduler_job.py:154} INFO - Started process (PID=4520) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:26:14,728] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:26:14,729] {logging_mixin.py:112} INFO - [2020-06-22 11:26:14,729] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:26:14,747] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:26:14,765] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:27:26,808] {scheduler_job.py:154} INFO - Started process (PID=4561) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:27:26,812] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:27:26,812] {logging_mixin.py:112} INFO - [2020-06-22 11:27:26,812] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:27:26,830] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:27:26,863] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.055 seconds
+[2020-06-22 11:28:38,893] {scheduler_job.py:154} INFO - Started process (PID=4602) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:28:38,898] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:28:38,898] {logging_mixin.py:112} INFO - [2020-06-22 11:28:38,898] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:28:38,916] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:28:38,934] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:29:50,984] {scheduler_job.py:154} INFO - Started process (PID=4643) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:29:50,988] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:29:50,988] {logging_mixin.py:112} INFO - [2020-06-22 11:29:50,988] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:29:51,006] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:29:51,023] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 11:31:03,065] {scheduler_job.py:154} INFO - Started process (PID=4691) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:31:03,070] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:31:03,071] {logging_mixin.py:112} INFO - [2020-06-22 11:31:03,071] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:31:03,088] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:31:03,107] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 11:32:15,144] {scheduler_job.py:154} INFO - Started process (PID=4732) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:32:15,148] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:32:15,148] {logging_mixin.py:112} INFO - [2020-06-22 11:32:15,148] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:32:15,167] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:32:15,185] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 11:33:27,224] {scheduler_job.py:154} INFO - Started process (PID=4773) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:33:27,231] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:33:27,231] {logging_mixin.py:112} INFO - [2020-06-22 11:33:27,231] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:33:27,249] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:33:27,269] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.046 seconds
+[2020-06-22 11:34:39,319] {scheduler_job.py:154} INFO - Started process (PID=4814) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:34:39,322] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:34:39,323] {logging_mixin.py:112} INFO - [2020-06-22 11:34:39,323] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:34:39,341] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:34:39,359] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:35:51,391] {scheduler_job.py:154} INFO - Started process (PID=4855) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:35:51,394] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:35:51,395] {logging_mixin.py:112} INFO - [2020-06-22 11:35:51,395] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:35:51,413] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:35:51,431] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:37:03,480] {scheduler_job.py:154} INFO - Started process (PID=4897) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:37:03,488] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:37:03,488] {logging_mixin.py:112} INFO - [2020-06-22 11:37:03,488] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:37:03,506] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:37:03,526] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.046 seconds
+[2020-06-22 11:38:15,556] {scheduler_job.py:154} INFO - Started process (PID=4938) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:38:15,559] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:38:15,560] {logging_mixin.py:112} INFO - [2020-06-22 11:38:15,560] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:38:15,578] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:38:15,595] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 11:39:27,640] {scheduler_job.py:154} INFO - Started process (PID=4982) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:39:27,644] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:39:27,645] {logging_mixin.py:112} INFO - [2020-06-22 11:39:27,645] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:39:27,663] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:39:27,682] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:40:39,733] {scheduler_job.py:154} INFO - Started process (PID=5089) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:40:39,737] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:40:39,738] {logging_mixin.py:112} INFO - [2020-06-22 11:40:39,737] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:40:39,756] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:40:39,774] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:41:51,805] {scheduler_job.py:154} INFO - Started process (PID=5131) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:41:51,809] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:41:51,809] {logging_mixin.py:112} INFO - [2020-06-22 11:41:51,809] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:41:51,827] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:41:51,845] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:43:03,892] {scheduler_job.py:154} INFO - Started process (PID=5172) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:43:03,897] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:43:03,898] {logging_mixin.py:112} INFO - [2020-06-22 11:43:03,898] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:43:03,916] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:43:03,934] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:44:15,969] {scheduler_job.py:154} INFO - Started process (PID=5213) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:44:15,973] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:44:15,973] {logging_mixin.py:112} INFO - [2020-06-22 11:44:15,973] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:44:15,992] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:44:16,010] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:45:28,062] {scheduler_job.py:154} INFO - Started process (PID=5254) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:45:28,065] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:45:28,066] {logging_mixin.py:112} INFO - [2020-06-22 11:45:28,066] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:45:28,084] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:45:28,102] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:46:40,144] {scheduler_job.py:154} INFO - Started process (PID=5336) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:46:40,148] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:46:40,149] {logging_mixin.py:112} INFO - [2020-06-22 11:46:40,149] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:46:40,167] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:46:40,187] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 11:47:52,227] {scheduler_job.py:154} INFO - Started process (PID=5378) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:47:52,230] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:47:52,231] {logging_mixin.py:112} INFO - [2020-06-22 11:47:52,231] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:47:52,249] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:47:52,266] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 11:49:04,315] {scheduler_job.py:154} INFO - Started process (PID=5419) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:49:04,321] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:49:04,322] {logging_mixin.py:112} INFO - [2020-06-22 11:49:04,322] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:49:04,340] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:49:04,359] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.045 seconds
+[2020-06-22 11:50:16,395] {scheduler_job.py:154} INFO - Started process (PID=5466) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:50:16,399] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:50:16,399] {logging_mixin.py:112} INFO - [2020-06-22 11:50:16,399] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:50:16,417] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:50:16,435] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 11:51:28,481] {scheduler_job.py:154} INFO - Started process (PID=5507) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:51:28,485] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:51:28,485] {logging_mixin.py:112} INFO - [2020-06-22 11:51:28,485] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:51:28,504] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:51:28,522] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:52:40,560] {scheduler_job.py:154} INFO - Started process (PID=5549) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:52:40,565] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:52:40,566] {logging_mixin.py:112} INFO - [2020-06-22 11:52:40,566] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:52:40,584] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:52:40,602] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 11:53:52,647] {scheduler_job.py:154} INFO - Started process (PID=5590) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:53:52,651] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:53:52,651] {logging_mixin.py:112} INFO - [2020-06-22 11:53:52,651] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:53:52,670] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:53:52,688] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:55:04,729] {scheduler_job.py:154} INFO - Started process (PID=5631) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:55:04,732] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:55:04,733] {logging_mixin.py:112} INFO - [2020-06-22 11:55:04,733] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:55:04,751] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:55:04,769] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:56:16,816] {scheduler_job.py:154} INFO - Started process (PID=5672) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:56:16,820] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:56:16,820] {logging_mixin.py:112} INFO - [2020-06-22 11:56:16,820] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:56:16,839] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:56:16,857] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 11:57:28,899] {scheduler_job.py:154} INFO - Started process (PID=5713) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:57:28,902] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:57:28,903] {logging_mixin.py:112} INFO - [2020-06-22 11:57:28,903] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:57:28,921] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:57:28,939] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 11:58:40,980] {scheduler_job.py:154} INFO - Started process (PID=5755) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:58:40,985] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:58:40,985] {logging_mixin.py:112} INFO - [2020-06-22 11:58:40,985] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:58:41,003] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:58:41,021] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 11:59:53,060] {scheduler_job.py:154} INFO - Started process (PID=5856) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:59:53,064] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 11:59:53,064] {logging_mixin.py:112} INFO - [2020-06-22 11:59:53,064] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:59:53,082] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 11:59:53,100] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 12:01:15,356] {scheduler_job.py:154} INFO - Started process (PID=5925) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:01:15,360] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:01:15,361] {logging_mixin.py:112} INFO - [2020-06-22 12:01:15,361] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:01:15,379] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:01:15,398] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 12:02:27,448] {scheduler_job.py:154} INFO - Started process (PID=5967) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:02:27,452] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:02:27,453] {logging_mixin.py:112} INFO - [2020-06-22 12:02:27,453] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:02:27,471] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:02:27,490] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 12:03:39,530] {scheduler_job.py:154} INFO - Started process (PID=6086) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:03:39,534] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:03:39,534] {logging_mixin.py:112} INFO - [2020-06-22 12:03:39,534] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:03:39,552] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:03:39,570] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.040 seconds
+[2020-06-22 12:04:22,994] {scheduler_job.py:154} INFO - Started process (PID=6158) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:04:22,998] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:04:22,998] {logging_mixin.py:112} INFO - [2020-06-22 12:04:22,998] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:04:23,018] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:04:23,036] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 12:04:51,611] {scheduler_job.py:154} INFO - Started process (PID=6196) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:04:51,616] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:04:51,616] {logging_mixin.py:112} INFO - [2020-06-22 12:04:51,616] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:04:51,635] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:04:51,653] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 12:06:03,685] {scheduler_job.py:154} INFO - Started process (PID=6259) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:06:03,689] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:06:03,689] {logging_mixin.py:112} INFO - [2020-06-22 12:06:03,689] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:06:03,708] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:06:03,726] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 12:07:15,769] {scheduler_job.py:154} INFO - Started process (PID=6302) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:07:15,772] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:07:15,773] {logging_mixin.py:112} INFO - [2020-06-22 12:07:15,773] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:07:15,791] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:07:15,810] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 12:08:27,851] {scheduler_job.py:154} INFO - Started process (PID=6409) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:08:27,856] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:08:27,856] {logging_mixin.py:112} INFO - [2020-06-22 12:08:27,856] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:08:27,875] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:08:27,894] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.042 seconds
+[2020-06-22 12:08:31,707] {scheduler_job.py:154} INFO - Started process (PID=6412) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:08:31,718] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:08:31,719] {logging_mixin.py:112} INFO - [2020-06-22 12:08:31,719] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:08:31,739] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:08:31,757] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.050 seconds
+[2020-06-22 12:09:50,766] {scheduler_job.py:154} INFO - Started process (PID=6543) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:09:50,770] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:09:50,771] {logging_mixin.py:112} INFO - [2020-06-22 12:09:50,771] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:09:50,789] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:09:50,806] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 12:11:57,670] {scheduler_job.py:154} INFO - Started process (PID=6713) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:11:57,675] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:11:57,676] {logging_mixin.py:112} INFO - [2020-06-22 12:11:57,676] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:11:57,698] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:11:57,715] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.045 seconds
+[2020-06-22 12:12:28,944] {scheduler_job.py:154} INFO - Started process (PID=6740) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:12:28,948] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:12:28,948] {logging_mixin.py:112} INFO - [2020-06-22 12:12:28,948] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:12:28,966] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:12:28,985] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.041 seconds
+[2020-06-22 12:13:41,026] {scheduler_job.py:154} INFO - Started process (PID=6805) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:13:41,031] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:13:41,031] {logging_mixin.py:112} INFO - [2020-06-22 12:13:41,031] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:13:41,050] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:13:41,068] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.043 seconds
+[2020-06-22 12:16:02,825] {scheduler_job.py:154} INFO - Started process (PID=6933) to work on /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:16:02,830] {scheduler_job.py:1562} INFO - Processing file /home/ec2-user/airflow/dags/hello.py for tasks to queue
+[2020-06-22 12:16:02,830] {logging_mixin.py:112} INFO - [2020-06-22 12:16:02,830] {dagbag.py:396} INFO - Filling up the DagBag from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:16:02,855] {scheduler_job.py:1574} INFO - DAG(s) ['hello_world_anitha'] retrieved from /home/ec2-user/airflow/dags/hello.py
+[2020-06-22 12:16:02,873] {scheduler_job.py:162} INFO - Processing /home/ec2-user/airflow/dags/hello.py took 0.048 seconds

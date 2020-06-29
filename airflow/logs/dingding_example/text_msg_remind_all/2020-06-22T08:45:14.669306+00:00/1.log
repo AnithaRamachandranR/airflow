@@ -1,0 +1,25 @@
+[2020-06-22 08:45:47,789] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: dingding_example.text_msg_remind_all 2020-06-22T08:45:14.669306+00:00 [queued]>
+[2020-06-22 08:45:47,797] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: dingding_example.text_msg_remind_all 2020-06-22T08:45:14.669306+00:00 [queued]>
+[2020-06-22 08:45:47,797] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-22 08:45:47,797] {taskinstance.py:880} INFO - Starting attempt 1 of 4
+[2020-06-22 08:45:47,797] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-22 08:45:47,809] {taskinstance.py:900} INFO - Executing <Task(DingdingOperator): text_msg_remind_all> on 2020-06-22T08:45:14.669306+00:00
+[2020-06-22 08:45:47,811] {standard_task_runner.py:53} INFO - Started process 4470 to run task
+[2020-06-22 08:45:47,866] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: dingding_example.text_msg_remind_all 2020-06-22T08:45:14.669306+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-22 08:45:47,878] {dingding_operator.py:66} INFO - Sending Dingding message.
+[2020-06-22 08:45:47,878] {logging_mixin.py:112} INFO - [2020-06-22 08:45:47,878] {dingding_hook.py:125} INFO - Sending Dingding type text message {"text": {"content": "Airflow dingding text message remind all users in group"}, "msgtype": "text", "at": {"isAtAll": true, "atMobiles": ["9994692674"]}}
+[2020-06-22 08:45:47,885] {taskinstance.py:1145} ERROR - Dingding token is requests but get nothing, check you conn_id configuration.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/operators/dingding_operator.py", line 74, in execute
+    hook.send()
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/hooks/dingding_hook.py", line 126, in send
+    resp = self.run(endpoint=self._get_endpoint(),
+  File "/usr/lib/python2.7/site-packages/airflow/contrib/hooks/dingding_hook.py", line 72, in _get_endpoint
+    raise AirflowException('Dingding token is requests but get nothing, '
+AirflowException: Dingding token is requests but get nothing, check you conn_id configuration.
+[2020-06-22 08:45:47,886] {taskinstance.py:1168} INFO - Marking task as UP_FOR_RETRY
+[2020-06-22 08:45:57,784] {logging_mixin.py:112} INFO - [2020-06-22 08:45:57,783] {local_task_job.py:103} INFO - Task exited with return code 1

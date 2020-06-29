@@ -1,0 +1,14 @@
+[2020-06-17 14:59:10,646] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: example_xcom.puller 2020-06-17T14:58:04.144234+00:00 [queued]>
+[2020-06-17 14:59:10,657] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: example_xcom.puller 2020-06-17T14:58:04.144234+00:00 [queued]>
+[2020-06-17 14:59:10,657] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 14:59:10,657] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-17 14:59:10,657] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 14:59:10,665] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): puller> on 2020-06-17T14:58:04.144234+00:00
+[2020-06-17 14:59:10,666] {standard_task_runner.py:53} INFO - Started process 4252 to run task
+[2020-06-17 14:59:10,719] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: example_xcom.puller 2020-06-17T14:58:04.144234+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-17 14:59:10,735] {logging_mixin.py:112} INFO - ([1, 2, 3], {'a': 'b'})
+[2020-06-17 14:59:10,735] {python_operator.py:114} INFO - Done. Returned value was: None
+[2020-06-17 14:59:10,738] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=example_xcom, task_id=puller, execution_date=20200617T145804, start_date=20200617T145910, end_date=20200617T145910
+[2020-06-17 14:59:20,640] {logging_mixin.py:112} INFO - [2020-06-17 14:59:20,640] {local_task_job.py:103} INFO - Task exited with return code 0

@@ -1,0 +1,19 @@
+[2020-06-23 10:32:48,794] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slacks_variable.testslackbash 2020-06-23T10:32:08.381138+00:00 [queued]>
+[2020-06-23 10:32:48,801] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: slacks_variable.testslackbash 2020-06-23T10:32:08.381138+00:00 [queued]>
+[2020-06-23 10:32:48,802] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-23 10:32:48,802] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-06-23 10:32:48,802] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-23 10:32:48,812] {taskinstance.py:900} INFO - Executing <Task(BashOperator): testslackbash> on 2020-06-23T10:32:08.381138+00:00
+[2020-06-23 10:32:48,814] {standard_task_runner.py:53} INFO - Started process 8736 to run task
+[2020-06-23 10:32:48,868] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: slacks_variable.testslackbash 2020-06-23T10:32:08.381138+00:00 [running]> ip-172-31-76-14.ec2.internal
+[2020-06-23 10:32:48,879] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /tmp
+[2020-06-23 10:32:48,881] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmplUcKW3/testslackbashxaiQ5F
+[2020-06-23 10:32:48,881] {bash_operator.py:115} INFO - Running command: echo hi
+[2020-06-23 10:32:48,885] {bash_operator.py:122} INFO - Output:
+[2020-06-23 10:32:48,886] {bash_operator.py:126} INFO - hi
+[2020-06-23 10:32:48,887] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-06-23 10:32:48,892] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=slacks_variable, task_id=testslackbash, execution_date=20200623T103208, start_date=20200623T103248, end_date=20200623T103248
+[2020-06-23 10:32:58,792] {logging_mixin.py:112} INFO - [2020-06-23 10:32:58,792] {local_task_job.py:103} INFO - Task exited with return code 0
